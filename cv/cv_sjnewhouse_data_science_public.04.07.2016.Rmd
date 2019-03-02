@@ -1,0 +1,399 @@
+---
+title: ''
+output:
+  html_document:
+    theme: default
+    toc: yes
+    toc_float: yes
+  pdf_document:
+    toc: yes
+  word_document:
+    toc: yes
+---
+
+![](./images/sjnlogo.png)  
+
+# Dr Stephen J Newhouse
+BSc Hons, MSc, PhD  
+**Lead Data Scientist & Senior Bioinformatician at The Bioinformatics Core at the NIHR Biomedical Research Centre for Mental Health, Kings College London**
+
+******
+
+I studied Molecular Biology at The University of Liverpool then went on to complete a Ph.D. in Genetics at Queen Mary University of London. Currently, I'm employed as **Lead Data Scientist** (yak shaver..) and **Senior Bioinformatician** at The Bioinformatics Core at the NIHR Biomedical Research Centre for Mental Health, Kings College London. During my Ph.D., I developed an interest in bioinformatics and its application to **human health and translational research**.
+
+I have **16 years experience** in dealing with **all kinds of Data**  - from molecular, genetic and clinical, cross-sectional and time-series data - and then putting it all together to tell a story, and identify potential biomarkers, novel therapeutic targets and contribute to a better understanding of human disease. I have a keen interest in the potential of **Genomic and Personalised Medicine**, and the **education of patients and the public** in these areas. 
+
+I'm a highly motivated, **self-taught and always learning "Data Scientist/Bioinformatician"**. I am looking for a **focused, honest and enthusiastic team** to work with. I'm not a careerist. Ideally, I am looking for a role where I can use my skills as a Data Scientist to contribute to and drive forward **real-world translational science**, and help make an **impact on public health, nationally and globally**.
+
+I am looking to move out of Academia and into a more professional environment. Although my background has been in Health and Life Science, as a Data Scientist I enjoy data, exploring new data and seeing what story it can tell us. My training as a Scientist, personal drive and interests in "Data" and what we can do with it, means that **I can turn my hand to any kind of problem or data set**.
+
+A short presentation about my current role, me and my current mission statement: **[ [slide] ](https://docs.google.com/presentation/d/1L7_VWrkhaSbOrybHl2Y5meIv8DKGpCqhIBgvLakNQrc/present?usp=sharing)**,  and a talk I gave at [[Contain]](http://www.meetup.com/Contain/) **Containing Bioinformatics: [[slide] ](https://docs.google.com/presentation/d/1f1WeyIf6-gpdWKPZim5nBVoSF49Bw3t8mhV8y73Qg-o/present?usp=sharing)**
+
+**For the Academics:** [ [Click Here] ](#for-the-academics) for links to my publications, citation index and Orchid-ID etc.  
+
+****** 
+
+### Personal and Contact Details
+
+| Personal Details         | Information            |
+|:-------------------------|:-----------------------|
+|**Date of Birth:**        |available upon request  |
+|**Nationality:**          |British                 |  
+|**Gender:**               |Male                    |
+|**Marital Status:**       |Married  
+|**Ethnicity:**            |Mixed (Caucasian, South-Asian) | 
+|**Willing to Relocate:**  | Yes                    |
+
+| Contact Details          | Information            |
+|:-------------------------|:-----------------------|
+|**Address:**              |available upon request | 
+|**Mobile no:**            |available upon request |
+|**Email:**                |stephen.j.newhouse@gmail.com  |
+
+******
+
+### Salary and Notice Peroid
+
+| Salary/Notice            | Information            |
+|:-------------------------|:-----------------------|
+|**Academic Salary Grade:**| Grade 8 pt 48          |
+|**Current Salary:**       | available upon request |
+|**Notice period:**        | 12 weeks               |
+
+******
+
+### Web Profiles
+
+| Website        |  Url                                         |
+|:---------------|:---------------------------------------------|
+|**LinkedIn:**   | https://uk.linkedin.com/in/sjnewhouse        |
+|**Twitter:**    | https://twitter.com/s_j_newhouse             |
+|**impactstory** |https://impactstory.org/u/0000-0002-1843-9842 |
+|**GitHub:**     | https://github.com/snewhouse                 |
+|**GitHub:**     | https://github.com/KHP-Informatics           |
+
+******
+
+### Education
+
+|Date            |Degree               | Subject                               | Institute                           |
+|:---------------|---------------------|:--------------------------------------|:------------------------------------|
+|**2001 – 2005** | **PhD**             | Genetics                              | Queen Mary, University of London, UK|
+|**1999 – 2000** | **MSc with Merit**  | Forensic Science                      | Kings College London, UK            |
+|**1996 – 1999** | **BSc. Hons. (2.1)**| Molecular Biology                     | University of Liverpool, UK         |
+|**1995 – 1996** | **GCE (A Levels)**  | Biology (B), Chemistry (B), Maths (C) | Wirral Grammer School, Bebington, UK|
+|**1990 – 1995** | **GCSE**            | 10 inc. English (A), Maths (B)        | Wellington School, Bebington, UK    |
+
+******
+
+### Current Position
+
+|Date    |Position                                               |Institute                                               |  
+|:-------|:------------------------------------------------------|:-------------------------------------------------------|  
+|**2016**| **Lead Data Scientist & Senior Bioinformatician**     | Bioinformatics Core at the NIHR Biomedical Research Centre for Mental Health, Kings College London |
+|**2015**| **Bioinformatics Module Lead (Genomic Medicine MSc)** | St Georges University of London & Kings College London |
+
+#### Bioinformatics Module Lead  
+As module lead: successfully organised and co-ordinated an intensive week of lectures and hands-on practicals covering bioinformatics applied to Genomic Medicine and the 100K Genome Project (http://www.genomicsengland.co.uk/).  
+
+- [SGUL & KCL Genomic Medicine MSc](http://www.kcl.ac.uk/study/postgraduate/taught-courses/genomic-medicine-msc-pg-dip-pg-cert.aspx)
+  - [Git:Course Material: Genomic-Medicine-MSc-Bioinformatics](https://github.com/snewhouse/Genomic-Medicine-MSc-Bioinformatics/tree/master/kcl-Feb-2016)  
+  
+#### Lead Data Scientist and Senior Bioinformatician
+
+- [NIHR BRC-MH Bioinformatics & Statistics Theme](http://www.maudsleybrc.nihr.ac.uk/research/engagement-population-and-informatics/bioinformatics-and-statistics/)     
+- [NIHR BRC-MH Bioinformatics Core](http://core.brc.iop.kcl.ac.uk/)   
+- Manage sub-team focused on Genomic and Transcriptomic work applied to neurodegenerative and psychiatric disorders 
+- Pipeline Development and Implementation for Genomic and Transcriptomic Data analysis
+- Pipeline Development and Implementation for Drug for Repurposing using public and private Genomic and Transcriptomic Data
+- Run small Core Bioinformatics service for Illumina SNP and Expression Array processing: raw data to analysis ready data  
+- Consult on NGS pipelines for local NHS Genetics Labs and local research groups
+- Consult on Data Science (Biostatistics, Statistical Genetics and Applied Predictive Modelling) for local research groups
+- Co-supervise 3 PhD students: academic and pastoral support
+- Present work at internal and external meetings
+- Publication list at: [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=t3faIVoAAAAJ&view_op=list_works&sortby=pubdate)
+ 
+Some selected unpublished works in progress:-
+
+- Brain expression analysis in Alzheimer's disease: Early Results: [[slide]](https://docs.google.com/presentation/d/1GIBRPM31TwHJVlqhfzuUKG5ohkRAdAfKniSQpus8pP0/present?usp=sharing) 
+- Genome-wide association analysis identifies common variants associated with measures of disease progression in patients with Alzheimer’s disease:[[pdf]](https://drive.google.com/file/d/0B0om8Cm0OfuwOTg2ZXBVLXFGNVU/view?usp=sharing)
+- NGSeasy:[[git]](https://github.com/KHP-Informatics/ngseasy)
+- Selected Posters:[[F1000 Research Posters]](http://f1000research.com/search?selectedDomain=posters&q=Newhouse&selectedConferences=&fieldSearches[0].fieldName=authors&fieldSearches[0].fieldValue=Newhouse&fieldSearches[0].logicalOperator=)
+
+Some selected highlights:- 
+
+#### Bio in Docker 2015 Symposium
+Took the lead in co-ordinating and organising this 2 day symosium, largely funded by Genomics England. A lot of credit and thanks go to Ms Tanya Hardy, Ms Lucy O'Neill for their support and hard work in helping to bring this all together and their logistics prowess. 
+
+- Information about [Docker](https://www.docker.com/)  
+- Git Repository: [bioindocker15](https://github.com/KHP-Informatics/bioindocker15)
+
+Some online coverage of this even can be found below:-  
+
+- Bio in Docker 2015: [[eventbrite]](https://www.eventbrite.co.uk/e/bio-in-docker-symposium-2015-tickets-16296680811?aff=erelexpcat)  
+- Bioinformatics for the masses?: [[medium]](https://medium.com/@davidweisss/bioinformatics-for-the-masses-42deedb2cf4f#.b90xhd9k8)  
+- Bioindocker15 meeting notes: [[medium]](https://medium.com/@davidweisss/bioindocker15-meeting-notes-aac0bb625a19#.f2sgimw7y)  
+- The future of bioinformatics is in sight: [[medium]](https://medium.com/@davidweisss/the-future-of-bioinformatics-is-in-sight-a66db05e9761#.myzs43ges)  
+- Brad Chapman:bioindocker2015-day1: [[smallchangebio]](https://smallchangebio.wordpress.com/2015/11/09/bioindocker2015-day1/)  
+- Brad Chapman:bioindocker2015-day2: [[smallchangebio]](https://smallchangebio.wordpress.com/2015/11/10/bioindocker-2015-day-2/)  
+
+#### London Containing Bioinformatics and Data Analytics
+As a spin off from our Bio in Docker event, I have started a Meetup. 
+
+[London Containing Bioinformatics & Data Analytics](http://www.meetup.com/London-Containing-Bioinformatics-Data-Analytics-Meetup/)  
+
+A group for all those coders and open source champions. Git lovers, Docker enthusiasts, applied Bio-/Health-/Medical-Informaticians and Machine Learners. ELK stack fans, software devs and engineers and UX/UI designers. For all those general computer and data science folks that are interested in meeting like-minded practitioners to chat/rant and play; set some standards, and hopefully, start and do some interesting things with real world applications. 
+
+******
+
+### Work History
+
+|Date     | Description                                                             |
+|:--------|:------------------------------------------------------------------------|
+|**2011** |**Senior Bioinformatician**, Bioinformatics Core at the NIHR Biomedical Research Centre for Mental Health, Kings College London |
+|**2010** |**Postdoctoral Research Associate**, MRC Centre for Neurodegeneration, Kings College London |
+|**2009** | **Postdoctoral Research Associate in Cardiovascular Genetics**. Department of Medicine, Clinical Pharmacology Unit, Cambridge University. |
+|**2006** |**Postdoctoral Research Scientist**. Dept of Clinical Pharmacology, William Harvey  Research Institute, Barts and The London School of Medicine, Queen Mary, University of London |
+|**2005** | **Wellcome Trust Value in People Award Postdoctoral Research Fellow**.Dept of Clinical Pharmacology, William Harvey  Research Institute, Barts and The London School of Medicine, Queen Mary, University of London |
+|**2000** |**Research Assistant**. “MRC British Genetics of Hypertension Study.” 				Dept of Clinical Pharmacology, William Harvey  Research Institute, 				Barts and The London School of Medicine, Queen Mary, University of 				London  |
+
+******
+
+### Data Science Skills and Experience
+
+Data Scientist familiar with and experience in the following:-
+
+**Note:** This is not an exhaustive list, but a snap-shot of the kind of methods, techniques, analyses and programming languages I have had experience with over the years. 
+
+- **[R](https://www.r-project.org/) & [Bioconductor](https://www.bioconductor.org/)**
+    - 10+ years experience 
+    - Example packages: `dplyr`, `mice`,`caret`, `ggplot`, `limma`, `lumi`, `sva`, `wgcna`...
+    - Rstudio: https://www.rstudio.com/
+- **Biostatistics & Exploratory Data Analysis**  
+    - Data Visualiation : boxplots, scatter plots, histograms...
+    - Example methods: `linear and logistic regression`, `principal component analysis` , `missing data imputation`...
+- **Machine Learning & Applied Predictive Modelling**
+    - Example methods: `lasso`, `random forest`, `support vector machines`,`k-means clustering` , `bootstrapping` and `cross validation`...
+    - Deep Learning: [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)
+    - h2o software: (http://www.h2o.ai/)  
+- **Network Data Integration, Analysis, and Visualization** using [Cytoscape](http://www.cytoscape.org/) and [Ingenuity Pathway Analysis (IPA)](http://www.ingenuity.com/products/ipa)
+- **Functional Enrichment Analyses:** [slide](https://docs.google.com/presentation/d/1gq6XIp1pelp93YUprWipbNCi1w5Ut5_KKrOjxNn9YYo/present?usp=sharing).
+    - Example methods: `Ingenuity Pathway Analysis`, `Enrichr`, `Genemania`, `GSEA` ...
+- **[SNP](https://en.wikipedia.org/wiki/Single-nucleotide_polymorphism) & Gene Expression [Array](https://en.wikipedia.org/wiki/DNA_microarray) Analysis** : [Illumina_expression_workflow](https://github.com/snewhouse/BRC_MH_Bioinformatics/blob/master/Illumina_expression_workflow/GAP_illumina_gene_expression_workflow_preProcessing.md)
+- **Applied Statistical Genetics**
+    - Candidate Gene Analysis
+    - Genome Wide Association Analyses
+    - SNP Imputation
+    - Polygenic risk score calcualtions 
+    - Example Software: `haplo.stats`, `PLINK`, `beagle`, `impute`, `snptest` ...
+- **Next Generation Sequence Pipelines (DNA & RN: A-seq)**
+    - Example Software: `bwa`, `novoalign`, `fastqc`, `trimmomatic`, `samtools` ,`kallisto`...
+    - Genome Analysis Toolkit (GATK) : https://www.broadinstitute.org/gatk/
+    - bcbio-nexgen: http://bcbio-nextgen.readthedocs.io/en/latest/
+- **NGS Variant calling & Prioritisation Pipelines**
+    - Example Software: `freebayes`, `platypus`, `vardict`, `cnvkit`, `annovar`, `vep`, `gemini`, `exomiser` ...
+- **Version Control:** [GitHub](https://github.com/)
+- **Bash** shell programming
+- **Python** : basic
+- **Package and environment management systems:** conda (http://conda.pydata.org/docs/) & bioconda (https://bioconda.github.io/)
+- **High Performance Computing:** Running analyses on multi-tenant HPC with  Sun Grid Engine
+- **Cloud Computing:** [Amazon Web Serives (AWS)](https://aws.amazon.com/) and [Google Cloud and GCE](https://cloud.google.com/)
+- **Spark & Hadoop:** interest in applying these in future work
+- **Basecamp:** https://basecamp.com/. Project co-ordination and management
+- **Operating Systems:** Unix, Mac OSX and Windows  
+- **Databases** : exposure to tranSMART, SQL and neo4j
+
+### DataCamp
+
+- DataCamp Profile : https://www.datacamp.com/profile/stephenjnewhouse
+
+| DataCamp  Certifications        | License                    |
+|:--------------------------------|---------------------------:|
+|Introduction to Machine Learning | 6e2e5c25ccc8f5cba1eacd4e229104c04e7e9063 |
+|Intermediate Python for Data Science|  409e19dbf6ee1a03daac8aba00a13b02e2436ae6 |
+|Intro to Python for Data Science | 1fd5cf54fc08358440b9cbd81acb54b5cafca0c6 |
+|Kaggle Python Tutorial on Machine Learning|e43f424808f019a19a1feb290afa73f343c13fd8 |
+|Data Exploration With Kaggle Scripts | 393b59a85f9e9c42a2b6bf1209d03a99da7a8365 |
+|Having Fun with googleVis | 25e6cf9cae8613558fe24f5fad38fb6e80f75800 |
+|Introduction to R |249990d217171669ef72d64edd3dba3d840557a2 |
+
+![ds](./images/DataScience.png)  
+[Source](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
+
+
+******
+
+### Personal Qualities
+
+As you can see from my CV and experience as a senior scientist in academia, I have clearly developed and demonstrated the following good personal qualities:-  
+
+- **Good Communication skills** 
+- **Team player skills** 
+- **Leadership skills**
+- **Attention to detail** 
+- **Enthusiasm and personal drive**
+- **Initiative**
+- **Management and organisational skills**
+- **Ability to handle pressure and meet deadlines**
+- **Willing to learn**
+- **Flexibility**
+
+**Some of my "Bad" qualities:**  
+
+- I can be too honest  
+- I can be fairly intolerant of   
+    - laziness  
+    - jargon junkies  
+    - behaviour that demonstrates an absence of trust  
+    - behaviour that demonstrates a focus on individual egos  
+    - behaviour that demonstrates a focus on personal politics and hierarchies  
+ 
+*Mostly, I am easy going and softly spoken and get along with everyone*
+
+****** 
+### Full Disclosure
+
+I have **Multiple Sclerosis**.   
+Multiple Sclerosis is covered under the Equality Act 2010.  
+Diagnosed: 2011.   
+Diagnosed at : [KCH NHS Multiple sclerosis](https://www.kch.nhs.uk/service/a-z/multiple-sclerosis)   
+Get Informed at : [https://www.mssociety.org.uk/](https://www.mssociety.org.uk/) and [https://www.mstrust.org.uk](https://www.mstrust.org.uk)
+
+![](./images/ms.png)  
+
+******
+
+### For the Academics
+
+|Metric/Id            |Information           |
+|:--------------------|----------------------|
+|**Google Scholar:**  |[Publications](https://scholar.google.co.uk/citations?hl=en&user=t3faIVoAAAAJ&view_op=list_works&sortby=pubdate) |
+|**h-index:**         | 34                   |
+|**i10-index:**       | 48                   |
+|**h-index Scopus:**  | 32                   |
+|**Scopus Author ID:**| 8931613700           |
+|**ResearcherID:**    | C-9330-2011          |
+|**ORCHID ID:**       | [0000-0002-1843-9842](http://orcid.org/0000-0002-1843-9842)|
+|**impactstory**      |https://impactstory.org/u/0000-0002-1843-9842 |
+
+******
+
+### Academic Profile
+
+Dr. Steve Newhouse studied Molecular Biology at Liverpool then went on to complete a Ph.D. in Genetics at Queen Mary University of London. He has extensive experience the design and analysis of genomic data focusing on complex disease genetics. During his PhD developed an interest in bioinformatics and its application to human disease and translational research – “integrative translational ‘omics”, specifically in the challenge of integrating and analysing multiple sources of complex data – genomic, transcriptomic, proteomic and basic clinical and demographic data for biomarker discovery, novel therapeutic targets and a better understanding of human disease.
+
+Dr. Newhouse has a wide range of experience in the analysis of data produced by expression and SNP arrays, next generation sequencing data and systems biology (network) based studies. His work has required the extensive use of multiple computational approaches such as machine learning methods and the creation of software tools and pipelines for mixed ‘omic data analysis, integration and applied predictive modelling.
+
+Dr. Newhouse co-manages a large team of Bioinformaticians lead by Dr. Richard Dobson at the NIHR Biomedical Research Centre for Mental Health Bioinformatics Core, King’s College London, and leads all sub-small team in all aspects of pipeline development and implementation for Genomic Data Analysis at the BRC-MH/U. As Lead Data Scientist and Senior Bioinformatician at the Bioinformatics core, he currently collaborates with national and international basic scientists and clinicians in academia and industry, conducting research that complements the overall strategy of the BRC-MH through the integration of rich clinical data from patient records with large variable datasets including transcriptomics, epigenetics, proteomics and neuroimaging. The integration of these disparate sources of data will allow researchers to better describe neurodegenerative and psychiatric disorders and to identify potential biomarkers of diagnosis, prognosis, progression and treatment response.
+
+### Supervision of Research Students and staff
+
+#### Teaching
+
+|Student/Staff      |Course                                    |Date           |
+|:------------------|:-----------------------------------------|:--------------|
+|Students/NHS staff |Bioinformatics , Genomic Medicine MSc     |2015- present  |
+|Students	    |MSc Genes Environment & Development       |2015- present  |
+|Students	    |MSc Neuroscience		               |2015- present  |
+|Staff/Students     |Master Class in Translational Research using Bioinformatics and Epidemiology |2014 – present  |
+|Staff/Students	    |SGDP Summer School: Bioinformatics        |2011 – present  |
+|Staff/Students	    |BRC-MH Bioinformatics Workshops	       |2011 - present  |
+|Medical Students   |Problem Based Learning tutor (QMUL)       |2005 - 2009  |
+|Medical Students   |BMedSci  Lecture Molecular Biology (QMUL) |2008 - 2009  |
+
+####Student Supervision
+
+|Name            |Studentship               |Date          |
+|:---------------|:-------------------------|:-------------|
+|Daniel Leirer   |PhD Student	              |2014- present |
+|Hamel Patel     |PhD Student		           |2014- present |
+|Elizabeth Baker |PhD Student 	           |2014- present |
+|Bugra Ozer	    |MSc Bionformatics student |2012-2012     | 
+|S. Sivakumar	    |BMedSci  student          |2007-2007     |
+
+#### Co-Supervision and Team Management
+|Name           |Student/Staff                        |Date            |
+|:--------------|:------------------------------------|:---------------|
+|D.Bean 	|Post Doctoral Research Fellow BRC-MH |	2016- present  |
+|A.Iacoangeli	|Post Doctoral Research Fellow BRC-MH |	2016- present  |
+|G.C.Antona     |Post Doctoral Research Fellow BRC-MH |	2015- present  |
+|H. Patel	|Bioinformatician BRC-MH	      |	2013- present  |
+|A. Gulati      |Bioinformatician KCH	              |	2013-2014      |
+|E. Azizan	|PhD Student, Cambridge	              | 2009-2010      |
+|J.Coleman      |Medical Student, Cambridge	      |	2009-2009      |
+|K.Sayal	|Medical Student, Cambridge	      | 2009-2009      |
+|M.Hoti	        |PhD Student, QMUL		      | 2006-2009      |
+|A. Doyle	|BMedSci  student, QMUL               | 2005-2005      |
+
+#### Funding Awards
+
+**Gene expression profiling in the MRC Brain bank : a systems based biology approach to Dementia**  
+Newhouse, S.  
+Biomedical Research Centre: £28,686.58  
+30/11/12 → 31/03/13  
+
+**Development of a high throughput gene, environment and epigenetics database and analysis system for international ALS research**    
+Motor Neurone Disease Association  
+Al-Chalabi, A., Dobson, R., Newhouse, S.  
+£171,479.00  
+1/10/14 → 30/09/17  
+
+**An integrated systems view of Alzheimer's disease in patients harbouring rare risk variants in TREM2**    
+Dobson, R., Hodges, A., Kiddle, S. & Newhouse, S.  
+Eli Lilly and Company (USA): £149,713.00  
+1/01/15 → 31/12/16  
+
+**UK Infrastructure for Large-Scale Clinical Genomics Research**    
+MRC  
+Dobson, R., Hubbard, T., Newhouse, S.  
+£251,454.00  
+1/04/15 → 30/09/18  
+
+
+#### International Collaborations
+
+Active participant and invited member of the following:-   
+
+**[Project MinE](https://www.projectmine.com/about/)**
+
+Plan to map the full DNA profiles of at least 15,000 people with [ALS](https://en.wikipedia.org/wiki/Amyotrophic_lateral_sclerosis) and 7,500 control subjects, and to perform comparative analyses on the resulting data.  
+
+
+**European Medical Information Framework:** WP3 integrative analysis task force and WP3/WP4 Genomics task force. URL: http://www.imi.europa.eu/content/emif  
+
+The EMIF project aims to develop a common information framework of patient-level data that will link up and facilitate access to diverse medical and research data sources, opening up new avenues of research for scientists. To provide a focus and guidance for the development of the framework, the project will focus initially on questions relating to obesity and Alzheimer’s disease.
+
+**The Genetic Architecture of Rate of Alzheimer’s Decline (GENAROAD) Consortium.** URL: http://www.genomes2people.org/genetic-architecture-of-rate-of-decline-in-alzheimers-disease/  
+
+There is tremendous unexplained variability in the rate of Alzheimer’s disease progression that is not explained by clinical features or co-morbidities and is therefore, likely genetic. Understanding more about the genetic basis of this variability could help illuminate biological pathways involved in disease progression and could uncover clues to new therapies to slow disease progression. In addition, identifying genetic markers associated with more rapid or less rapid decline might also help refine the selection of subjects or inform the interpretation of future clinical trials. Investigators from several large studies are pooling longitudinal psychometric data and genotype data in order to discover new genes associated with rate of decline. These data have been collected or are being collected from the Alzheimer’s Disease Genetics Consortium, the Alzheimer’s Disease Neuroimaging Initiative, the Rush Religious Orders Study, Rush Memory and Ageing Study, the Cache County Study of Memory and Ageing, AddNeuroMed and several industry-sponsored pharmaceutical trials
+
+******
+
+### Personal Interests
+- Family Time 
+- Minor comic book geek  
+- Film and *"Bad"* Movies 
+- Photography & Sketching
+- Coding and Data Analysis and Visualisation  
+- [simplystats](http://simplystatistics.org/) 
+- [machinelearningmastery](http://machinelearningmastery.com/blog/)
+- [datascienceheroes](http://blog.datascienceheroes.com/)  
+- Blue Collar Bioinformatics: https://bcbio.wordpress.com/
+- Medium : https://medium.com/
+
+******
+
+### References
+
+**Available upon request.**
+
+******
+
+**Student Feedback from Bioinformatics Module , Genomic Medicine MSc**
+
+> *Dear Stephen,  
+>Thank you very much for the wonderful week of teaching and introduction to the world of bioinformatics. It was very engaging, logical and very well structured. You made bioinformatics  look so attractive that I seriously started to ask myself if I can be brave enough to try more of it and base my final project on bioinformatics.  
+>I am glad I am doing this course part time and project will need to be started only next year as it will give me some more time to read, practice and possibly attend some courses. Thank you!...
+Thank you very much again and I hope I would not bother you with many questions in the near future as you are busy enough without my quiries.  
+>Very best wishes,  
+>Alena <alena.marynina@stgeorges.nhs.uk>*
