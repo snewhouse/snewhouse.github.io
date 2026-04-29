@@ -15,8 +15,6 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/snewhouse
-    - text: "🤗 Hugging Face"
-      href: https://huggingface.co/sjnewhouse
     - text: ORCID
       href: https://orcid.org/0000-0002-1843-9842
     - text: Google Scholar

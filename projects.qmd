@@ -12,7 +12,7 @@ listing:
     feed: false
 ---
 
-A selection of work-in-progress and open-source projects. The full list lives on [GitHub (212+ repos)](https://github.com/snewhouse?tab=repositories) and [Hugging Face](https://huggingface.co/sjnewhouse).
+A selection of work-in-progress and open-source projects. The full list lives on [GitHub (212+ repos)](https://github.com/snewhouse?tab=repositories).
 
 ## Featured
 
