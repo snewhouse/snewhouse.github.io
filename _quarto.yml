@@ -1,0 +1,85 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "posts/"
+    - "projects/"
+    - "!archive/"
+  resources:
+    - "archive/**"
+    - "robots.txt"
+    - "llms.txt"
+    - "CNAME"
+    - "assets/**"
+    - ".well-known/**"
+
+website:
+  title: "Stephen J Newhouse"
+  description: "Dr Stephen J Newhouse — Data Scientist & Bioinformatician. Translational genomics, ML for health, agentic AI."
+  site-url: "https://snewhouse.github.io"
+  repo-url: "https://github.com/snewhouse/snewhouse.github.io"
+  repo-actions: [edit, source, issue]
+  favicon: assets/favicon.svg
+  open-graph: true
+  twitter-card:
+    creator: "@s_j_newhouse"
+    site: "@s_j_newhouse"
+    card-style: summary_large_image
+  google-analytics: ""
+  search:
+    location: navbar
+    type: overlay
+  navbar:
+    logo: assets/favicon.svg
+    title: "Stephen J Newhouse"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: cv.qmd
+        text: CV
+      - href: projects.qmd
+        text: Projects
+      - href: posts.qmd
+        text: Blog
+      - href: archive.qmd
+        text: Archive
+    right:
+      - icon: github
+        href: https://github.com/snewhouse
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/sjnewhouse/
+        aria-label: LinkedIn
+      - text: "🤗"
+        href: https://huggingface.co/sjnewhouse
+        aria-label: Hugging Face
+      - icon: mortarboard
+        href: https://orcid.org/0000-0002-1843-9842
+        aria-label: ORCID
+  page-footer:
+    left: "© 2016–2026 Stephen J Newhouse. Built with [Quarto](https://quarto.org)."
+    right:
+      - icon: github
+        href: https://github.com/snewhouse
+      - icon: linkedin
+        href: https://www.linkedin.com/in/sjnewhouse/
+      - text: ORCID
+        href: https://orcid.org/0000-0002-1843-9842
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+      dark: [darkly, styles.scss]
+    css: styles.css
+    toc: true
+    code-copy: true
+    code-overflow: wrap
+    smooth-scroll: true
+    anchor-sections: true
+    link-external-newwindow: true
+    include-in-header:
+      - includes/head.html

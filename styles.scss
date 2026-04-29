@@ -1,0 +1,25 @@
+/*-- scss:defaults --*/
+$primary: #2a5d84;
+$link-color: $primary;
+$body-bg: #ffffff;
+$body-color: #1f2328;
+
+/*-- scss:rules --*/
+.quarto-title-block .quarto-title .title {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.about-link {
+  font-weight: 500;
+}
+
+a.external::after {
+  content: " ↗";
+  font-size: 0.8em;
+  opacity: 0.6;
+}
+
+.callout {
+  border-radius: 8px;
+}

@@ -1,0 +1,80 @@
+---
+title: "CV — Stephen J Newhouse"
+pagetitle: "CV — Stephen J Newhouse"
+description-meta: "CV / resume for Dr Stephen J Newhouse: data scientist & bioinformatician."
+toc: true
+toc-depth: 2
+---
+
+::: {.callout-note}
+**PDF version:** _<!-- TODO: drop a `cv.pdf` into `assets/` and the link below will work. -->_ → [Download PDF](assets/cv.pdf)
+:::
+
+## Headline
+
+**Dr Stephen J Newhouse, PhD** — Senior data scientist / bioinformatician.
+Translational genomics · ML for health · agentic AI.
+Based in the UK · open to remote.
+
+[LinkedIn](https://www.linkedin.com/in/sjnewhouse/) · [GitHub](https://github.com/snewhouse) · [Hugging Face](https://huggingface.co/sjnewhouse) · [ORCID](https://orcid.org/0000-0002-1843-9842) · [Google Scholar](https://scholar.google.com/citations?user=NPnNtkMAAAAJ)
+
+## Skills
+
+- **Languages:** Python, R, Bash, SQL; some Rust / Go
+- **ML / data:** scikit-learn, PyTorch, HuggingFace, pandas, polars; classical stats; survival; biostats
+- **LLM / agents:** Claude / Anthropic, OpenAI, vLLM, retrieval, evaluation, MCP, agentic memory
+- **Bioinformatics:** NGS (DNA/RNA), variant calling, GWAS, RNA-seq, multi-omics; Bioconductor
+- **Pipelines:** Snakemake, Nextflow, CWL; Docker, Singularity; Conda
+- **Cloud / infra:** AWS, GCP, Azure; Linux, HPC, SLURM; Terraform basics
+- **Engineering practice:** Git/GitHub, CI/CD, code review, reproducible research, open source
+
+## Experience
+
+::: {.callout-important}
+This section is intentionally a **template**. Replace each block below with your real entries — Quarto will render them as-is.
+:::
+
+### _<!-- Role -->_  · _<!-- Company -->_
+_<!-- Start date -->_ – present · _<!-- Location / remote -->_
+
+- _<!-- Headline impact bullet — the thing a recruiter should remember. -->_
+- _<!-- Concrete contribution: scope, tech, outcome (numbers if possible). -->_
+- _<!-- Concrete contribution. -->_
+
+### Lead Data Scientist & Senior Bioinformatician · NIHR BRC for Mental Health, King's College London
+_2014 – <!-- TODO end date -->_ · London, UK
+
+- Led the Bioinformatics Core supporting translational psychiatry and neurology research.
+- Built NGS analysis pipelines (DNA-seq, RNA-seq, exome, GWAS) and contributed to multi-omics studies.
+- Co-authored peer-reviewed work; supervised junior staff and students.
+
+### _<!-- Earlier roles — see archived 2018 CV at /archive/cv-legacy/ for full history -->_
+
+## Education
+
+- **PhD** — _<!-- TODO field, institution, year -->_
+- **MSc** — _<!-- TODO field, institution, year -->_
+- **BSc (Hons)** — _<!-- TODO field, institution, year -->_
+
+## Selected publications
+
+See [Google Scholar](https://scholar.google.com/citations?user=NPnNtkMAAAAJ) for the full list (h-index and i10-index update automatically there).
+
+- _<!-- Add 3–5 representative papers with DOI links. -->_
+- _<!-- ... -->_
+
+## Talks & teaching
+
+- **Excuse me, do you have a moment to talk about version control?** — Dept talk, KCL, 2018. [Slides & paper (archived)](archive/git-intro-2018/).
+- **NGS Galaxy Workshop** — 2019. [Materials (archived)](archive/ngs-workshop-2019/files/).
+- _<!-- Add recent talks. -->_
+
+## Open source
+
+- [aa-ma-forge](https://github.com/snewhouse/aa-ma-forge) — Advanced Agentic Memory Architecture
+- [awesome-genetics-software](https://github.com/snewhouse/awesome-genetics-software) — curated list
+- 200+ public repos on [GitHub](https://github.com/snewhouse?tab=repositories)
+
+## References
+
+Available on request.

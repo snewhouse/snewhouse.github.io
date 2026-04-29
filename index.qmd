@@ -1,0 +1,55 @@
+---
+title: "Dr Stephen J Newhouse"
+subtitle: "Data Scientist · Bioinformatician · Builder of agentic systems"
+pagetitle: "Stephen J Newhouse — Data Scientist & Bioinformatician"
+description-meta: "Personal site of Dr Stephen J Newhouse: translational genomics, ML for health, and agentic AI."
+about:
+  template: trestles
+  image: assets/favicon.svg
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sjnewhouse/
+    - icon: github
+      text: GitHub
+      href: https://github.com/snewhouse
+    - text: "🤗 Hugging Face"
+      href: https://huggingface.co/sjnewhouse
+    - text: ORCID
+      href: https://orcid.org/0000-0002-1843-9842
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=NPnNtkMAAAAJ
+    - icon: envelope
+      text: Email
+      href: mailto:stephen.j.newhouse@gmail.com
+---
+
+## Hi — I'm Stephen.
+
+I'm a **data scientist and bioinformatician** with a PhD and 15+ years building data, ML, and genomics platforms across academia and industry. My work has spanned translational genomics, biomarker discovery, NGS pipelines, and ML for health — and these days I'm increasingly focused on **agentic AI**: memory, tool-use, and reproducible LLM systems.
+
+I care about open science, reproducibility, and turning messy real-world data into things people can actually use.
+
+::: {.callout-note appearance="minimal"}
+**Open to work / collaborations.** Senior IC and tech-lead roles in data science / ML / bioinformatics — UK or remote. Get in touch via [LinkedIn](https://www.linkedin.com/in/sjnewhouse/) or [email](mailto:stephen.j.newhouse@gmail.com).
+:::
+
+### What I work on
+
+- **Agentic AI & LLM systems** — memory architectures, retrieval, evaluation. See [`aa-ma-forge`](https://github.com/snewhouse/aa-ma-forge).
+- **Bioinformatics & genomics** — NGS, variant analysis, pipelines, reproducible workflows.
+- **ML for health** — predictive modelling, biomarker discovery, biostatistics.
+- **Open science** — version control, reproducible research, teaching.
+
+### Recent
+
+- 🆕 [Blog post: latest →](posts.qmd)
+- 🛠️ [Projects →](projects.qmd)
+- 📄 [CV →](cv.qmd)
+- 🗄️ [Older talks & teaching material](archive.qmd)
+
+### Contact
+
+Best routes: [LinkedIn](https://www.linkedin.com/in/sjnewhouse/) · [GitHub](https://github.com/snewhouse) · [email](mailto:stephen.j.newhouse@gmail.com).

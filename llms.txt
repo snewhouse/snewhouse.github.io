@@ -1,0 +1,47 @@
+# Stephen J Newhouse
+
+> Personal site of Dr Stephen J Newhouse — Data Scientist & Bioinformatician. Translational genomics, ML for health, agentic AI.
+
+## About
+
+- Name: Stephen J Newhouse (Dr, PhD)
+- Aliases: sjnewhouse, s_j_newhouse, Steve Newhouse
+- Role: Data Scientist & Bioinformatician
+- Areas of expertise: bioinformatics, translational genomics, NGS, machine learning for health, biostatistics, agentic AI, LLM systems, open science, reproducible research
+- Past affiliation: NIHR Biomedical Research Centre for Mental Health, King's College London
+- Location: United Kingdom
+
+## Identifiers
+
+- ORCID: 0000-0002-1843-9842
+- Scopus Author ID: 8931613700
+- ResearcherID: C-9330-2011
+
+## Profiles
+
+- GitHub: https://github.com/snewhouse
+- LinkedIn: https://www.linkedin.com/in/sjnewhouse/
+- Hugging Face: https://huggingface.co/sjnewhouse
+- Google Scholar: https://scholar.google.com/citations?user=NPnNtkMAAAAJ
+- Twitter / X: https://twitter.com/s_j_newhouse
+- ORCID: https://orcid.org/0000-0002-1843-9842
+- Org (past): https://github.com/KHP-Informatics
+
+## Site map
+
+- /              — homepage and short bio
+- /about         — extended bio, expertise, profiles
+- /cv            — curriculum vitae
+- /projects      — featured projects and open-source work
+- /posts         — blog (notes on data science, bioinformatics, agentic AI)
+- /archive       — historical materials (2016–2019 CV, talks, workshops)
+
+## Featured projects
+
+- aa-ma-forge — Advanced Agentic Memory Architecture for LLM agents. https://github.com/snewhouse/aa-ma-forge
+- awesome-genetics-software — curated list of genetic analysis tools. https://github.com/snewhouse/awesome-genetics-software
+
+## Contact
+
+- LinkedIn DM: https://www.linkedin.com/in/sjnewhouse/
+- GitHub: https://github.com/snewhouse

@@ -1,0 +1,11 @@
+---
+title: "awesome-genetics-software"
+description: "A curated list of tools for genetic and genomic analysis."
+date: 2024-06-01
+categories: [bioinformatics, genomics, awesome-list, open-source]
+image: ../assets/projects/dna.svg
+---
+
+A long-running, community-friendly curated list of software for genetic analysis: variant callers, GWAS tooling, population genetics, annotation, visualisation, and more.
+
+[→ Repository on GitHub](https://github.com/snewhouse/awesome-genetics-software)

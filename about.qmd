@@ -1,0 +1,47 @@
+---
+title: "About"
+pagetitle: "About — Stephen J Newhouse"
+description-meta: "Background, expertise, and current focus of Dr Stephen J Newhouse."
+---
+
+## Background
+
+I'm Dr Stephen J Newhouse — BSc (Hons), MSc, PhD. My career has bridged **academic biomedical research** and **applied data science**, with a focus on extracting useful signal from biological and clinical data.
+
+Past affiliations include the **NIHR Biomedical Research Centre for Mental Health at King's College London** and **King's Health Partners Bioinformatics Core**. I've co-authored peer-reviewed work in genomics, neurology, psychiatry, and translational medicine, and contributed to open-source tools and teaching materials used by researchers around the world.
+
+::: {.callout-tip}
+**Current role / affiliation:** _<!-- TODO: Steve — fill in current title and employer here. The site builds without this; just edit `about.qmd`. -->_
+:::
+
+## Expertise
+
+- **Bioinformatics:** NGS analysis, variant calling, RNA-seq, GWAS, multi-omics integration
+- **Data science / ML:** predictive modelling, biomarker discovery, model evaluation, MLOps
+- **Statistics & genetics:** biostatistics, statistical genetics, population genetics
+- **Engineering:** reproducible pipelines (Snakemake / Nextflow), containers, cloud (AWS/GCP/Azure)
+- **Agentic AI:** memory architectures, retrieval, tool-use, LLM evaluation
+- **Open science:** version control, reproducible research, teaching
+
+## Current focus
+
+- Agentic AI — see [aa-ma-forge](https://github.com/snewhouse/aa-ma-forge): an Advanced Agentic Memory Architecture
+- Genetics & bioinformatics tooling — curating [awesome-genetics-software](https://github.com/snewhouse/awesome-genetics-software)
+- Writing and sharing what I learn — see [blog](posts.qmd)
+
+## Profiles & metrics
+
+| Profile | Link |
+|---|---|
+| GitHub | [snewhouse](https://github.com/snewhouse) |
+| LinkedIn | [sjnewhouse](https://www.linkedin.com/in/sjnewhouse/) |
+| Hugging Face | [sjnewhouse](https://huggingface.co/sjnewhouse) |
+| ORCID | [0000-0002-1843-9842](https://orcid.org/0000-0002-1843-9842) |
+| Google Scholar | [profile](https://scholar.google.com/citations?user=NPnNtkMAAAAJ) |
+| Scopus Author ID | 8931613700 |
+| ResearcherID | [C-9330-2011](https://publons.com/researcher/C-9330-2011/) |
+| Twitter / X | [\@s_j_newhouse](https://twitter.com/s_j_newhouse) |
+
+::: {.callout-note appearance="minimal"}
+**Citation metrics** are kept current by Google Scholar / Scopus rather than hard-coded here, so they don't go stale.
+:::
