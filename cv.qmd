@@ -52,7 +52,7 @@ toc-depth: 2
 
 - Lead engineer on **Biorelate's internal biomedical AI agent platform**: agent orchestration, memory, evaluation, and biomedical tool-use over a curated knowledge graph.
 - Led delivery of a **target safety assessment app for a life-sciences pharma client**. Knowledge-graph and LLM-driven evidence retrieval, programmatic citation, regulator-ready outputs.
-- Designed and ran a **managed-AI vendor integration** evaluation: selection, scoping, and validation of a third-party LLM platform to extend Biorelate's data-science offering.
+- Designed and ran a **[Langdock](https://www.langdock.com) integration** evaluation for Biorelate: scoping, validation, and integration patterns for using Langdock as a managed-AI platform alongside our own stack.
 
 **Selected achievements**
 

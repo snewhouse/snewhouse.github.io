@@ -1,31 +1,33 @@
 ---
-title: "Managed-AI platform integration (Biorelate)"
-description: "Selection, scoping, and integration of a third-party managed-AI platform to extend Biorelate's data-science offering. Vendor name withheld."
+title: "Langdock integration evaluation (Biorelate)"
+description: "Selection, scoping, and integration of Langdock as a managed-AI platform alongside Biorelate's own stack."
 date: 2026-02-10
-categories: [llm, integration, professional-services, evaluation]
+categories: [llm, integration, professional-services, evaluation, langdock]
 ---
 
 ## What it is
 
-An integration evaluation: could a **managed third-party LLM platform** sit alongside Biorelate's own stack and extend what we offer to clients without compromising data handling, citation integrity, or evaluation discipline?
+An integration evaluation: could **[Langdock](https://www.langdock.com)** sit alongside Biorelate's own stack and extend what we offer to clients without compromising data handling, citation integrity, or evaluation discipline?
 
-::: {.callout-note appearance="minimal"}
-**Vendor name withheld** in this write-up.
-:::
+Langdock is an enterprise AI platform that lets organisations deploy LLM-powered workflows across teams under a single managed interface. The question for Biorelate Professional Services was operational: where does it fit in our delivery model, and where doesn't it.
 
 ## What I did
 
 - Designed and ran the evaluation. Defined the criteria up front: data sovereignty, citation handling, evaluation harness, observability, deployment topology, and cost.
 - Built test harnesses for the parts that matter to clients: agentic round-trips, tool use, output sanitisation, citation correctness.
-- Surfaced where the platform is strong (managed infra, fast iteration) and where it has rough edges (round-trip topology, observability gaps under certain step counts).
-- Documented integration patterns so the wider Biorelate team can plug the platform into client engagements without relearning the gotchas.
+- Surfaced where Langdock is strong (managed infra, fast iteration, multi-model access) and where it has rough edges (round-trip topology under multi-step agent runs, observability gaps in certain step-count regimes).
+- Documented integration patterns so the wider Biorelate team can plug Langdock into client engagements without relearning the gotchas.
 
 ## Outcome
 
-- A validated integration path. Clear "use this when, don't use this when" guidance.
+- A validated integration path with clear "use this when, don't use this when" guidance.
 - Reusable test fixtures and a small library of integration patterns.
-- Faster onboarding for any future engagement that wants to lean on the platform.
+- Faster onboarding for any future engagement that wants to lean on Langdock.
 
 ## What I learned
 
-A managed-AI platform's marketing materials rarely describe its actual round-trip topology. Test harnesses that exercise agentic behaviour end-to-end (not just single-prompt completions) reveal the operationally important quirks.
+A managed-AI platform's marketing materials rarely describe its actual round-trip topology. Test harnesses that exercise agentic behaviour end-to-end (not just single-prompt completions) reveal the operationally important quirks. In Langdock's case the `requestMaxSteps` setting affects round-trip topology, not just step count, which is the kind of thing you only catch with proper instrumentation.
+
+## Links
+
+- [Langdock](https://www.langdock.com)

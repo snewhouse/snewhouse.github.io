@@ -16,7 +16,7 @@ Before Biorelate I held roles at **Grid Edge** (Data Scientist), **Mindwave Vent
 
 - **Lead engineer on Biorelate's internal biomedical AI agent platform**. Agent orchestration, memory, evaluation, biomedical tool-use over a curated knowledge graph.
 - **Target safety assessment apps for life-sciences pharma clients**. Knowledge graph + LLM evidence retrieval, programmatic citation, regulator-ready outputs.
-- **Managed-AI platform integration**. Extending Biorelate's data-science offering through third-party LLM platforms.
+- **[Langdock](https://www.langdock.com) integration**. Evaluating and integrating Langdock as a managed-AI platform alongside Biorelate's own stack.
 - **Biomedical AI & knowledge graphs more broadly**. Biorelate's core, applied to target, drug, and biomarker discovery and indication expansion.
 - **Agentic engineering**. LLM systems, RAG, memory, tool-use, evaluation. See [`aa-ma-forge`](https://github.com/snewhouse/aa-ma-forge).
 - **Multi-omics + personalised medicine**. Where I think the most interesting signal is right now.
