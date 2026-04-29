@@ -1,79 +1,144 @@
 ---
 title: "CV — Stephen J Newhouse"
-pagetitle: "CV — Stephen J Newhouse"
-description-meta: "CV / resume for Dr Stephen J Newhouse: data scientist & bioinformatician."
+pagetitle: "CV — Dr Stephen J Newhouse, PhD | Bioinformatics, ML, Agentic AI"
+description-meta: "CV / resume of Dr Stephen J Newhouse, PhD — Head of Professional Services & Senior Bioinformatician at Biorelate. Target, drug & biomarker discovery, knowledge graphs, ML, bioinformatics."
 toc: true
 toc-depth: 2
 ---
 
 ::: {.callout-note}
-**PDF version:** _<!-- TODO: drop a `cv.pdf` into `assets/` and the link below will work. -->_ → [Download PDF](assets/cv.pdf)
+**PDF version:** drop a `cv.pdf` into `assets/` and the link below will work → [Download PDF](assets/cv.pdf)
 :::
 
 ## Headline
 
-**Dr Stephen J Newhouse, PhD** — Senior data scientist / bioinformatician.
-Translational genomics · ML for health · agentic AI.
-Based in the UK · open to remote.
+**Dr Stephen J Newhouse, PhD** — Head of Professional Services & Senior Bioinformatician at **[Biorelate Ltd.](https://www.biorelate.com)**.
 
-[LinkedIn](https://www.linkedin.com/in/sjnewhouse/) · [GitHub](https://github.com/snewhouse) · [Hugging Face](https://huggingface.co/sjnewhouse) · [ORCID](https://orcid.org/0000-0002-1843-9842) · [Google Scholar](https://scholar.google.com/citations?user=NPnNtkMAAAAJ)
+20+ years across **academia, NHS, and industry** — bioinformatics, ML, target/drug/biomarker discovery, knowledge graphs, agentic AI.
 
-## Skills
+📍 Manchester, England, UK — open to hybrid / remote.
 
-- **Languages:** Python, R, Bash, SQL; some Rust / Go
-- **ML / data:** scikit-learn, PyTorch, HuggingFace, pandas, polars; classical stats; survival; biostats
-- **LLM / agents:** Claude / Anthropic, OpenAI, vLLM, retrieval, evaluation, MCP, agentic memory
-- **Bioinformatics:** NGS (DNA/RNA), variant calling, GWAS, RNA-seq, multi-omics; Bioconductor
-- **Pipelines:** Snakemake, Nextflow, CWL; Docker, Singularity; Conda
-- **Cloud / infra:** AWS, GCP, Azure; Linux, HPC, SLURM; Terraform basics
-- **Engineering practice:** Git/GitHub, CI/CD, code review, reproducible research, open source
+[LinkedIn](https://www.linkedin.com/in/sjnewhouse/) · [GitHub](https://github.com/snewhouse) · [Hugging Face](https://huggingface.co/sjnewhouse) · [ORCID](https://orcid.org/0000-0002-1843-9842) · [Google Scholar](https://scholar.google.co.uk/citations?user=NPnNtkMAAAAJ) · [KCL Pure](https://kclpure.kcl.ac.uk/portal/stephen.newhouse.html)
+
+## Top skills
+
+**Top 3 (LinkedIn):** Agile Methodologies · Data Management · Natural Language Processing (NLP)
+
+- **Languages:** Python, R, Bash, SQL
+- **ML / data:** scikit-learn, PyCaret, Prophet, MLflow, pandas, NumPy, Streamlit, classical stats, time-series, biostats
+- **NLP & knowledge graphs:** biomedical text mining, entity & relation extraction, graph-based reasoning
+- **LLM / agentic AI:** RAG, agent memory, tool-use, evaluation, MCP, Anthropic / OpenAI / HuggingFace stacks
+- **Bioinformatics:** NGS (DNA/RNA), variant calling, GWAS, RNA-seq, multi-omics, drug repurposing, Illumina arrays
+- **Pipelines & infra:** Snakemake, Nextflow, Docker, Conda; Git/GitHub; CI/CD
+- **Cloud:** AWS, GCP
+- **Leadership:** team building, client engagement, training, consulting, cross-functional delivery, Agile
+
+## Languages
+
+- **English** — Native or Bilingual
 
 ## Experience
 
-::: {.callout-important}
-This section is intentionally a **template**. Replace each block below with your real entries — Quarto will render them as-is.
-:::
+### Head of Professional Services & Senior Bioinformatician · [Biorelate Ltd.](https://www.biorelate.com)
+**June 2021 – present** · United Kingdom (Manchester)
 
-### _<!-- Role -->_  · _<!-- Company -->_
-_<!-- Start date -->_ – present · _<!-- Location / remote -->_
+- Lead a high-performing Professional Services team delivering exceptional client value, fostering long-term partnerships, and driving company growth.
+- Spearhead client onboarding, training, and product trials — ensuring seamless adoption and maximising the impact of Biorelate's solutions.
+- Oversee bespoke projects and consultancy engagements, leveraging industry expertise and cutting-edge data to address unique client challenges.
+- Active contributor to sales / business-development success.
+- Champion cross-functional collaboration with Sales, Business Development, Marketing, Product, and Data Science.
+- Act as an internal client to Product, providing feedback and insights so solutions remain at the forefront of quality and relevance.
 
-- _<!-- Headline impact bullet — the thing a recruiter should remember. -->_
-- _<!-- Concrete contribution: scope, tech, outcome (numbers if possible). -->_
-- _<!-- Concrete contribution. -->_
+**Selected achievements**
 
-### Lead Data Scientist & Senior Bioinformatician · NIHR BRC for Mental Health, King's College London
-_2014 – <!-- TODO end date -->_ · London, UK
+- Built and led a successful Professional Services team with a client-centric culture and consistently high client satisfaction.
+- Played a pivotal role in driving revenue growth — contributing to **over £1 M in annual sales**.
+- Established strong cross-functional partnerships across the organisation.
+- Delivered consistently high-quality client engagements, exceeding expectations and building lasting relationships.
 
-- Led the Bioinformatics Core supporting translational psychiatry and neurology research.
-- Built NGS analysis pipelines (DNA-seq, RNA-seq, exome, GWAS) and contributed to multi-omics studies.
-- Co-authored peer-reviewed work; supervised junior staff and students.
+### Data Scientist · Grid Edge
+**January 2021 – June 2021** · United Kingdom
 
-### _<!-- Earlier roles — see archived 2018 CV at /archive/cv-legacy/ for full history -->_
+- Worked closely with the data-science team to define and deliver ML products and enhancements on time, on budget, on spec.
+- Developed advanced ML models for prediction of complex multivariate time-series, allowing faster times-to-prediction for clients with limited data.
+- **Key achievement:** built an EDA + ML web application using Streamlit, Python, pandas, NumPy, scikit-learn, PyCaret, Prophet, MLflow, and Docker — letting data scientists explore, clean, process, and track data for ML experiments on complex multivariate time-series.
+
+### Chief Technology Officer · Mindwave Ventures
+**August 2019 – February 2020** · London, UK
+
+### Honorary Senior Lecturer · UCL
+**December 2017 – August 2019** · London, UK
+
+### King's College London  ·  *(8 years total, 2011 – 2019)*
+
+#### Bioinformatics Module Lead, Genomic Medicine MSc
+**November 2015 – August 2019** — KCL & SGUL
+
+Module lead: organised and coordinated an intensive week of lectures and hands-on practicals covering bioinformatics applied to Genomic Medicine and the [100,000 Genomes Project](https://www.genomicsengland.co.uk/).
+Course material: [snewhouse/Genomic-Medicine-MSc-Bioinformatics](https://github.com/snewhouse/Genomic-Medicine-MSc-Bioinformatics/tree/master/kcl-Feb-2016).
+
+#### Data Science Group Lead — Department of Biostatistics & Health Informatics
+**November 2015 – August 2019** · London, UK
+
+- Member of the Bioinformatics & IT Committee for the **South London Genomic Medicine Centre**.
+- Managed a sub-team focused on genomic and transcriptomic work applied to neurodegenerative and psychiatric disorders.
+- Developed and implemented bioinformatic / analytical pipelines for genomic and transcriptomic data analysis.
+- Built pipelines for **drug repurposing** using public and private genomic and transcriptomic data.
+- Led a small Core Bioinformatics service for **Illumina SNP and Expression Array** processing — raw → analysis-ready data.
+- Consulted on NGS pipelines for local NHS Genetics Labs and research groups.
+- Consulted on data science: biostatistics, statistical genetics, ML, applied predictive modelling, EDA, analytics.
+- Co-supervised PhD students (academic and pastoral support); presented at internal and external meetings.
+- Teaching: NHS & academic staff and students (BSc, MSc, PhD, working professionals).
+
+#### Senior Bioinformatician — NIHR BRC for Mental Health, Institute of Psychiatry
+**September 2011 – August 2019** · London, UK
+
+#### Associate Member of the MRC SGDP — Institute of Psychiatry, Psychology & Neuroscience
+**March 2015 – August 2019** · London, UK
+
+### Postdoctoral Researcher · Institute of Psychiatry, KCL
+**January 2010 – September 2011** · London, UK
+
+### Postdoctoral Research Fellow · University of Cambridge
+**January 2009 – January 2010** · Cambridge, UK
+
+### Postdoctoral Research Fellow · Queen Mary, University of London
+**December 2006 – January 2009** · London, UK
 
 ## Education
 
-- **PhD** — _<!-- TODO field, institution, year -->_
-- **MSc** — _<!-- TODO field, institution, year -->_
-- **BSc (Hons)** — _<!-- TODO field, institution, year -->_
+- **PhD, Genetics** — Queen Mary University of London (2001 – 2006)
+- **MSc, Forensic Science and Technology** — King's College London (1999 – 2000)
+- **BSc (Hons), Molecular Biology** — University of Liverpool (1996 – 1999)
+
+## Certifications & training
+
+- **Mental Health First Aid Champion** — MHFA England (2020)
+- GDPR Foundations
+- Intro to Python for Data Science
+- Introduction to R
+- Data Exploration with Kaggle Scripts
+- Kaggle Python Tutorial on Machine Learning
 
 ## Selected publications
 
-See [Google Scholar](https://scholar.google.com/citations?user=NPnNtkMAAAAJ) for the full list (h-index and i10-index update automatically there).
+Full list: **[Google Scholar](https://scholar.google.co.uk/citations?user=NPnNtkMAAAAJ)** · **[tinyurl.com/mujf69xs](https://tinyurl.com/mujf69xs)** · **[Impactstory](https://profiles.impactstory.org/u/0000-0002-1843-9842)** · **[KCL Pure](https://kclpure.kcl.ac.uk/portal/stephen.newhouse.html)** · **[ORCID](https://orcid.org/0000-0002-1843-9842)**.
 
-- _<!-- Add 3–5 representative papers with DOI links. -->_
-- _<!-- ... -->_
+Citation metrics are best read live from Scholar / Scopus — they don't belong hard-coded on a static page.
 
 ## Talks & teaching
 
-- **Excuse me, do you have a moment to talk about version control?** — Dept talk, KCL, 2018. [Slides & paper (archived)](archive/git-intro-2018/).
+- **Excuse me, do you have a moment to talk about version control?** — Dept talk, KCL, 2018-04-10. [Slides & paper (archived)](archive/git-intro-2018/).
 - **NGS Galaxy Workshop** — 2019. [Materials (archived)](archive/ngs-workshop-2019/files/).
-- _<!-- Add recent talks. -->_
+- **Bioinformatics Module, Genomic Medicine MSc** — KCL & SGUL, 2015–2019. [Course material](https://github.com/snewhouse/Genomic-Medicine-MSc-Bioinformatics).
 
 ## Open source
 
 - [aa-ma-forge](https://github.com/snewhouse/aa-ma-forge) — Advanced Agentic Memory Architecture
-- [awesome-genetics-software](https://github.com/snewhouse/awesome-genetics-software) — curated list
+- [awesome-genetics-software](https://github.com/snewhouse/awesome-genetics-software) — curated list of genetics tooling
+- [Genomic-Medicine-MSc-Bioinformatics](https://github.com/snewhouse/Genomic-Medicine-MSc-Bioinformatics) — KCL teaching materials
 - 200+ public repos on [GitHub](https://github.com/snewhouse?tab=repositories)
+- Past contributions to [KHP-Informatics](https://github.com/KHP-Informatics) (King's Health Partners)
 
 ## References
 

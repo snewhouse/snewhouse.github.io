@@ -1,15 +1,46 @@
 # Stephen J Newhouse
 
-> Personal site of Dr Stephen J Newhouse — Data Scientist & Bioinformatician. Translational genomics, ML for health, agentic AI.
+> Personal site of Dr Stephen J Newhouse, PhD — Head of Professional Services & Senior Bioinformatician at Biorelate Ltd. (Manchester, UK). 20+ years across academia, NHS, and industry in bioinformatics, genomics, ML, and life-sciences data science. Currently focused on knowledge graphs, NLP, RAG, multi-omics, and agentic AI for target / drug / biomarker discovery and personalised medicine.
 
 ## About
 
 - Name: Stephen J Newhouse (Dr, PhD)
 - Aliases: sjnewhouse, s_j_newhouse, Steve Newhouse
-- Role: Data Scientist & Bioinformatician
-- Areas of expertise: bioinformatics, translational genomics, NGS, machine learning for health, biostatistics, agentic AI, LLM systems, open science, reproducible research
-- Past affiliation: NIHR Biomedical Research Centre for Mental Health, King's College London
-- Location: United Kingdom
+- Current role: Head of Professional Services & Senior Bioinformatician
+- Current employer: Biorelate Ltd. (https://www.biorelate.com)
+- Location: Manchester, England, United Kingdom
+- Languages: English (native)
+- Areas of expertise: bioinformatics, genomics, NGS, multi-omics, machine learning, NLP, knowledge graphs, RAG, agentic AI, LLM systems, biostatistics, drug discovery, biomarker discovery, target discovery, indication expansion, systems biology, predictive modelling, time-series, biomedical text mining, open science, reproducible research, Agile delivery, data management
+- Top skills (LinkedIn): Agile Methodologies, Data Management, Natural Language Processing (NLP)
+
+## Career timeline
+
+- 2021-06 → present  Head of Professional Services & Senior Bioinformatician, Biorelate Ltd. (Manchester, UK). £1M+/yr revenue contribution; built and led the Professional Services team.
+- 2021-01 → 2021-06  Data Scientist, Grid Edge (UK). Built EDA + ML web app (Streamlit, PyCaret, Prophet, MLflow, Docker) for multivariate time-series.
+- 2019-08 → 2020-02  Chief Technology Officer, Mindwave Ventures (London, UK).
+- 2017-12 → 2019-08  Honorary Senior Lecturer, UCL (London, UK).
+- 2015-11 → 2019-08  Bioinformatics Module Lead, Genomic Medicine MSc, KCL & SGUL.
+- 2015-11 → 2019-08  Data Science Group Lead, Dept of Biostatistics & Health Informatics, King's College London.
+- 2015-03 → 2019-08  Associate Member, MRC SGDP, Institute of Psychiatry, KCL.
+- 2011-09 → 2019-08  Senior Bioinformatician, NIHR BRC for Mental Health, Institute of Psychiatry, KCL.
+- 2010-01 → 2011-09  Postdoctoral Researcher, Institute of Psychiatry, KCL.
+- 2009-01 → 2010-01  Postdoctoral Research Fellow, University of Cambridge.
+- 2006-12 → 2009-01  Postdoctoral Research Fellow, Queen Mary, University of London.
+
+## Education
+
+- PhD, Genetics — Queen Mary University of London (2001–2006)
+- MSc, Forensic Science and Technology — King's College London (1999–2000)
+- BSc (Hons), Molecular Biology — University of Liverpool (1996–1999)
+
+## Certifications
+
+- Mental Health First Aid Champion — MHFA England (2020)
+- GDPR Foundations
+- Intro to Python for Data Science
+- Introduction to R
+- Data Exploration with Kaggle Scripts
+- Kaggle Python Tutorial on Machine Learning
 
 ## Identifiers
 
@@ -19,13 +50,17 @@
 
 ## Profiles
 
-- GitHub: https://github.com/snewhouse
+- Email: stephen.j.newhouse@gmail.com
 - LinkedIn: https://www.linkedin.com/in/sjnewhouse/
+- GitHub: https://github.com/snewhouse
+- GitHub (org, past): https://github.com/KHP-Informatics
 - Hugging Face: https://huggingface.co/sjnewhouse
-- Google Scholar: https://scholar.google.com/citations?user=NPnNtkMAAAAJ
-- Twitter / X: https://twitter.com/s_j_newhouse
+- Google Scholar: https://scholar.google.co.uk/citations?user=NPnNtkMAAAAJ
+- KCL Pure: https://kclpure.kcl.ac.uk/portal/stephen.newhouse.html
 - ORCID: https://orcid.org/0000-0002-1843-9842
-- Org (past): https://github.com/KHP-Informatics
+- Impactstory: https://profiles.impactstory.org/u/0000-0002-1843-9842
+- Publications shortcut: https://tinyurl.com/mujf69xs
+- Twitter / X: https://twitter.com/s_j_newhouse
 
 ## Site map
 
@@ -40,8 +75,12 @@
 
 - aa-ma-forge — Advanced Agentic Memory Architecture for LLM agents. https://github.com/snewhouse/aa-ma-forge
 - awesome-genetics-software — curated list of genetic analysis tools. https://github.com/snewhouse/awesome-genetics-software
+- Genomic-Medicine-MSc-Bioinformatics — KCL teaching materials. https://github.com/snewhouse/Genomic-Medicine-MSc-Bioinformatics
 
 ## Contact
 
+- Email: stephen.j.newhouse@gmail.com
 - LinkedIn DM: https://www.linkedin.com/in/sjnewhouse/
 - GitHub: https://github.com/snewhouse
+
+Open to connecting with people working at the intersection of data, biology, and drug discovery.
