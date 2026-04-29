@@ -46,7 +46,7 @@ Somewhere along the way I appear to have become an **Agentic Engineer**. Not by 
 ### Recent outcomes
 
 - Helped secure **£400K+ in new client contracts** for Biorelate this year.
-- Lead engineer on **Biorelate's internal biomedical AI agent platform** (memory, tool-use, evaluation, biomedical knowledge-graph reasoning).
+- Lead engineer on **Biorelate's Professional Services internal biomedical AI agent tooling** (memory, tool-use, evaluation, biomedical knowledge-graph reasoning). Built for our delivery team; now integrated into large-pharma clients' own internal LLM and tech stacks.
 - Delivered a **target safety assessment app** for a life-sciences pharma client. Knowledge graph + LLM evidence retrieval, programmatic citation, regulator-ready outputs.
 - Designed and ran a **[Langdock](https://www.langdock.com) integration** evaluation for Biorelate: managed-AI platform integration, test harnesses, integration patterns.
 
