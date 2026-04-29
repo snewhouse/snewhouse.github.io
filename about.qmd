@@ -1,33 +1,33 @@
 ---
 title: "About"
-pagetitle: "About — Stephen J Newhouse"
-description-meta: "Background, expertise, and current focus of Dr Stephen J Newhouse — Head of Professional Services & Senior Bioinformatician at Biorelate."
+pagetitle: "About. Stephen J Newhouse"
+description-meta: "Background, expertise, and current focus of Dr Stephen J Newhouse. Head of Professional Services & Senior Bioinformatician at Biorelate."
 ---
 
 ## Background
 
-I'm Dr Stephen J Newhouse — BSc (Hons), MSc, PhD. **20+ years** in bioinformatics, genomics, and life-sciences data science, working across **academia, the NHS, and industry**.
+I'm Dr Stephen J Newhouse: BSc (Hons), MSc, PhD. **20+ years** in bioinformatics, genomics, and life-sciences data science, working across **academia, the NHS, and industry**.
 
-Currently I'm **Head of Professional Services and Senior Bioinformatician at [Biorelate Ltd.](https://www.biorelate.com)** in Manchester, UK — where I lead the team that turns Biorelate's biomedical AI, knowledge graph, and NLP products into real client outcomes in target / drug / biomarker discovery, indication expansion, and systems biology.
+I'm currently **Head of Professional Services and Senior Bioinformatician at [Biorelate Ltd.](https://www.biorelate.com)** in Manchester, UK. I lead the team that turns Biorelate's biomedical AI, knowledge graph, and NLP products into real client outcomes in target, drug, and biomarker discovery, indication expansion, and systems biology.
 
-Before Biorelate I held roles at **Grid Edge** (Data Scientist), **Mindwave Ventures** (CTO), **UCL** (Honorary Senior Lecturer), and spent eight years at **King's College London** as a Senior Bioinformatician and Data Science Group Lead at the NIHR Biomedical Research Centre for Mental Health, including module-leading the Bioinformatics module of the MSc in Genomic Medicine. Earlier postdoctoral work at the **Institute of Psychiatry, University of Cambridge,** and **Queen Mary University of London**, where I also did my PhD in Genetics.
+Before Biorelate I held roles at **Grid Edge** (Data Scientist), **Mindwave Ventures** (CTO), and **UCL** (Honorary Senior Lecturer). I spent eight years at **King's College London** as a Senior Bioinformatician and Data Science Group Lead at the NIHR Biomedical Research Centre for Mental Health, including module-leading the Bioinformatics module of the MSc in Genomic Medicine. Earlier postdoctoral work at the **Institute of Psychiatry**, **University of Cambridge**, and **Queen Mary University of London**, where I also did my PhD in Genetics.
 
 ## Current focus
 
-- **Biomedical AI & knowledge graphs** — Biorelate's core, applied to target, drug, and biomarker discovery and indication expansion.
-- **Agentic engineering** — LLM systems, RAG, memory, tool-use, evaluation. See [`aa-ma-forge`](https://github.com/snewhouse/aa-ma-forge).
-- **Multi-omics + personalised medicine** — where I think the most interesting signal is right now.
-- **Open source & teaching** — I still enjoy writing things down and giving them away. See [`awesome-genetics-software`](https://github.com/snewhouse/awesome-genetics-software) and the [archive](archive.qmd) of older teaching material.
+- **Biomedical AI & knowledge graphs**. Biorelate's core, applied to target, drug, and biomarker discovery and indication expansion.
+- **Agentic engineering**. LLM systems, RAG, memory, tool-use, evaluation. See [`aa-ma-forge`](https://github.com/snewhouse/aa-ma-forge).
+- **Multi-omics + personalised medicine**. Where I think the most interesting signal is right now.
+- **Open source & teaching**. I still enjoy writing things down and giving them away. See [`awesome-genetics-software`](https://github.com/snewhouse/awesome-genetics-software) and the [archive](archive.qmd) of older teaching material.
 
 ## Expertise
 
-- **Bioinformatics & genomics** — NGS (DNA/RNA), variant analysis, GWAS, RNA-seq, multi-omics, drug repurposing pipelines, Illumina arrays
-- **Data science / ML** — predictive modelling, biomarker discovery, EDA, time-series, model evaluation, MLOps (MLflow, PyCaret, Prophet)
-- **NLP & knowledge graphs** — biomedical text mining, entity/relation extraction, graph-based reasoning
-- **Agentic AI / LLMs** — RAG, agent memory, tool-use, evaluation, MCP
-- **Statistics & genetics** — biostatistics, statistical genetics, applied predictive modelling
-- **Engineering** — Python, R, Bash; Docker; Snakemake / Nextflow; CI/CD; AWS, GCP; Streamlit; Git/GitHub
-- **Leadership & delivery** — building & leading teams, client engagement, training, consulting, Agile delivery
+- **Bioinformatics & genomics**. NGS (DNA/RNA), variant analysis, GWAS, RNA-seq, multi-omics, drug repurposing pipelines, Illumina arrays.
+- **Data science / ML**. Predictive modelling, biomarker discovery, EDA, time-series, model evaluation, MLOps (MLflow, PyCaret, Prophet).
+- **NLP & knowledge graphs**. Biomedical text mining, entity and relation extraction, graph-based reasoning.
+- **Agentic AI / LLMs**. RAG, agent memory, tool-use, evaluation, MCP.
+- **Statistics & genetics**. Biostatistics, statistical genetics, applied predictive modelling.
+- **Engineering**. Python, R, Bash; Docker; Snakemake, Nextflow; CI/CD; AWS, GCP; Streamlit; Git/GitHub.
+- **Leadership & delivery**. Building and leading teams, client engagement, training, consulting, Agile delivery.
 
 ## Profiles & identifiers
 

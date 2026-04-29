@@ -1,25 +1,72 @@
 /*-- scss:defaults --*/
+
+// Brand colour kept consistent across litera + solar so links read as "mine"
+// rather than the theme's default.
 $primary: #2a5d84;
 $link-color: $primary;
-$body-bg: #ffffff;
-$body-color: #1f2328;
+
+// Slightly larger body text and looser leading so long-form prose breathes.
+$font-size-root: 17px;
+$line-height-base: 1.65;
 
 /*-- scss:rules --*/
-.quarto-title-block .quarto-title .title {
+
+// ----- Layout width --------------------------------------------------------
+// Quarto caps content around 1140px on most Bootswatch themes. On a wide
+// monitor that leaves the page looking lost in margin. Bump the cap and let
+// the navbar + footer follow.
+$content-max: 1320px;
+
+#quarto-content > * { max-width: $content-max !important; }
+.navbar > .container,
+.page-footer > .container { max-width: $content-max !important; }
+
+// ----- Trestles "about" hero ----------------------------------------------
+// 14em image was effectively a stretched favicon. Real headshot/monogram
+// gets more room and an explicit gap so the text column doesn't feel
+// glued to the image.
+.quarto-about-trestles .about-entity {
+  gap: 3.5rem;
+  align-items: flex-start;
+}
+
+.quarto-about-trestles .about-image {
+  max-width: 18em;
+  width: 18em;
+  height: auto;
+}
+
+// ----- Title block --------------------------------------------------------
+.quarto-title-block .title {
   font-weight: 700;
-  letter-spacing: -0.01em;
+  letter-spacing: -0.015em;
+  line-height: 1.15;
 }
 
-.about-link {
-  font-weight: 500;
+.quarto-title-block .subtitle {
+  font-weight: 400;
+  font-size: 1.15rem;
+  opacity: 0.85;
+  margin-top: 0.5rem;
 }
 
-a.external::after {
-  content: " ↗";
-  font-size: 0.8em;
-  opacity: 0.6;
+// ----- Headings -----------------------------------------------------------
+h1, h2, h3 { letter-spacing: -0.01em; }
+h2 { margin-top: 2.25rem; }
+
+// ----- Misc ---------------------------------------------------------------
+a.about-link { font-weight: 500; }
+a.external::after { content: " ↗"; font-size: 0.8em; opacity: 0.6; }
+.callout { border-radius: 8px; }
+
+// Compact "Past roles" list on the CV: two columns on desktop, one on
+// mobile, so the trailing roles don't bloat the page.
+.past-roles ul { columns: 2; column-gap: 2.5rem; }
+@media (max-width: 768px) {
+  .past-roles ul { columns: 1; }
 }
 
-.callout {
-  border-radius: 8px;
-}
+// Solar (dark) tweaks. Solar's default link colour is a muted yellow.
+// Force the brand blue back in so the visual identity carries across themes.
+.quarto-dark a:not(.btn) { color: lighten($primary, 25%); }
+.quarto-dark a:not(.btn):hover { color: lighten($primary, 35%); }

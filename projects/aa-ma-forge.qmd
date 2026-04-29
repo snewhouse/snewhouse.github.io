@@ -1,6 +1,6 @@
 ---
 title: "aa-ma-forge"
-description: "Advanced Agentic Memory Architecture — long-term, structured memory for LLM agents."
+description: "Advanced Agentic Memory Architecture. Long-term, structured memory for LLM agents."
 date: 2026-01-15
 categories: [agentic-ai, llm, memory, open-source]
 image: ../assets/projects/aa-ma-forge.svg
@@ -8,7 +8,7 @@ image: ../assets/projects/aa-ma-forge.svg
 
 ## What it is
 
-`aa-ma-forge` (AA-MA: Advanced Agentic Memory Architecture) is an in-progress framework for giving LLM agents **structured, persistent, queryable memory** — beyond a vector store.
+`aa-ma-forge` (AA-MA: Advanced Agentic Memory Architecture) is an in-progress framework for giving LLM agents **structured, persistent, queryable memory**, beyond a vector store.
 
 The goal: agents that genuinely accumulate knowledge across sessions, with clean separation between episodic, semantic, and procedural memory.
 
