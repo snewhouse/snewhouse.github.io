@@ -15,7 +15,7 @@
 
 ## Career timeline
 
-- 2021-06 → present  Head of Professional Services & Senior Bioinformatician, Biorelate Ltd. (Manchester, UK). £1M+/yr revenue contribution; helped secure £400K+ in new client contracts; built and led the Professional Services team. Lead engineer on Biorelate's internal biomedical AI agent platform; delivered a target safety assessment app for a life-sciences pharma client; ran a managed-AI vendor integration evaluation.
+- 2021-06 → present  Head of Professional Services & Senior Bioinformatician, Biorelate Ltd. (Manchester, UK). £1M+/yr revenue contribution; helped secure £400K+ in new client contracts; built and led the Professional Services team. Lead engineer on Biorelate's internal biomedical AI agent platform; delivered a target safety assessment app for a life-sciences pharma client; ran a Langdock (https://www.langdock.com) integration evaluation as a managed-AI platform addition to Biorelate's stack.
 - 2021-01 → 2021-06  Data Scientist, Grid Edge (UK). Built EDA + ML web app (Streamlit, PyCaret, Prophet, MLflow, Docker) for multivariate time-series.
 - 2019-08 → 2020-02  Chief Technology Officer (interim, head-hunted), Mindwave Ventures, now Claryon Systems (London, UK; UK & India teams). NHS-focused digital health; led containerisation, Docker security, and a UK/India distributed engineering team.
 - 2017-12 → 2019-08  Honorary Senior Lecturer, UCL (London, UK).
@@ -74,7 +74,7 @@
 ## Featured projects (Biorelate, anonymised case studies)
 
 - Target safety assessment app for a life-sciences pharma client. Knowledge graph + LLM evidence retrieval, programmatic citation, regulator-ready outputs. https://snewhouse.github.io/projects/safety-assessment-app.html
-- Managed-AI platform integration evaluation for Biorelate. Vendor selection, scoping, test harnesses for agentic round-trips. https://snewhouse.github.io/projects/managed-ai-integration.html
+- Langdock (https://www.langdock.com) integration evaluation for Biorelate. Selection, scoping, test harnesses for agentic round-trips, integration patterns for using Langdock as a managed-AI platform alongside Biorelate's own stack. https://snewhouse.github.io/projects/managed-ai-integration.html
 - Lead engineer on Biorelate's internal biomedical AI agent platform (agent orchestration, memory, evaluation, biomedical tool-use, knowledge-graph reasoning).
 
 ## Featured projects (open source)
