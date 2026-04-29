@@ -64,7 +64,7 @@ These are still placeholders — the build won't fail without them, but you'll w
 - [ ] **OG image:** add `assets/og-image.png` (1200×630). Referenced by JSON-LD.
 - [ ] **CV PDF:** drop `assets/cv.pdf` to enable the download button on `cv.qmd`.
 - [ ] **Selected publications:** `cv.qmd` currently links out to Scholar / KCL Pure / Impactstory. Add 3–5 hand-picked highlights if you want them surfaced.
-- [ ] **Google Scholar profile ID:** `NPnNtkMAAAAJ` is the standard pattern but I haven't verified the actual ID — open your Scholar profile and replace site-wide if different (`index.qmd`, `about.qmd`, `cv.qmd`, `includes/head.html`, `llms.txt`).
+- [x] **Google Scholar profile ID:** `t3faIVoAAAAJ`. Verified by Stephen and applied site-wide (`index.qmd`, `about.qmd`, `cv.qmd`, `includes/head.html`, `llms.txt`).
 - [ ] **Google Analytics / Plausible** *(optional)*: `_quarto.yml` `google-analytics:` is empty; add an ID if you want stats.
 - [ ] **Custom domain** *(optional)*: add a `CNAME` file at the repo root, then configure DNS.
 

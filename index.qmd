@@ -20,7 +20,7 @@ about:
     - text: ORCID
       href: https://orcid.org/0000-0002-1843-9842
     - text: Google Scholar
-      href: https://scholar.google.co.uk/citations?user=NPnNtkMAAAAJ
+      href: https://scholar.google.co.uk/citations?user=t3faIVoAAAAJ
     - icon: building
       text: KCL Pure
       href: https://kclpure.kcl.ac.uk/portal/stephen.newhouse.html
@@ -62,4 +62,4 @@ Somewhere along the way I appear to have become an **Agentic Engineer**. Not by 
 - 📄 [CV →](cv.qmd)
 - 🛠️ [Projects →](projects.qmd)
 - ✍️ [Blog →](posts.qmd)
-- 📚 Publications: [Google Scholar](https://scholar.google.co.uk/citations?user=NPnNtkMAAAAJ) · [tinyurl.com/mujf69xs](https://tinyurl.com/mujf69xs) · [Impactstory](https://profiles.impactstory.org/u/0000-0002-1843-9842)
+- 📚 Publications: [Google Scholar](https://scholar.google.co.uk/citations?user=t3faIVoAAAAJ) · [tinyurl.com/mujf69xs](https://tinyurl.com/mujf69xs) · [Impactstory](https://profiles.impactstory.org/u/0000-0002-1843-9842)
