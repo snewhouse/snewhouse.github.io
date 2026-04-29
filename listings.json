@@ -2,6 +2,8 @@
   {
     "listing": "/projects.html",
     "items": [
+      "/projects/safety-assessment-app.html",
+      "/projects/managed-ai-integration.html",
       "/projects/aa-ma-forge.html",
       "/projects/awesome-genetics-software.html"
     ]

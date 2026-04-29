@@ -1,39 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://snewhouse.github.io/projects/safety-assessment-app.html</loc>
+    <lastmod>2026-04-29T18:35:42.524Z</lastmod>
+  </url>
+  <url>
     <loc>https://snewhouse.github.io/projects/awesome-genetics-software.html</loc>
-    <lastmod>2026-04-29T12:02:39.026Z</lastmod>
+    <lastmod>2026-04-29T18:35:42.524Z</lastmod>
   </url>
   <url>
     <loc>https://snewhouse.github.io/projects.html</loc>
-    <lastmod>2026-04-29T12:02:39.026Z</lastmod>
+    <lastmod>2026-04-29T18:35:42.524Z</lastmod>
   </url>
   <url>
     <loc>https://snewhouse.github.io/posts.html</loc>
-    <lastmod>2026-04-29T12:02:39.025Z</lastmod>
+    <lastmod>2026-04-29T18:35:42.523Z</lastmod>
   </url>
   <url>
     <loc>https://snewhouse.github.io/cv.html</loc>
-    <lastmod>2026-04-29T12:02:39.025Z</lastmod>
+    <lastmod>2026-04-29T18:35:42.523Z</lastmod>
   </url>
   <url>
     <loc>https://snewhouse.github.io/about.html</loc>
-    <lastmod>2026-04-29T12:02:38.833Z</lastmod>
+    <lastmod>2026-04-29T18:35:42.335Z</lastmod>
   </url>
   <url>
     <loc>https://snewhouse.github.io/archive.html</loc>
-    <lastmod>2026-04-29T12:02:38.833Z</lastmod>
+    <lastmod>2026-04-29T18:35:42.335Z</lastmod>
   </url>
   <url>
     <loc>https://snewhouse.github.io/index.html</loc>
-    <lastmod>2026-04-29T12:02:39.025Z</lastmod>
+    <lastmod>2026-04-29T18:35:42.523Z</lastmod>
   </url>
   <url>
     <loc>https://snewhouse.github.io/posts/welcome/index.html</loc>
-    <lastmod>2026-04-29T12:02:39.026Z</lastmod>
+    <lastmod>2026-04-29T18:35:42.524Z</lastmod>
   </url>
   <url>
     <loc>https://snewhouse.github.io/projects/aa-ma-forge.html</loc>
-    <lastmod>2026-04-29T12:02:39.026Z</lastmod>
+    <lastmod>2026-04-29T18:35:42.524Z</lastmod>
+  </url>
+  <url>
+    <loc>https://snewhouse.github.io/projects/managed-ai-integration.html</loc>
+    <lastmod>2026-04-29T18:35:42.524Z</lastmod>
   </url>
 </urlset>
