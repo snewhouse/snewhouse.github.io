@@ -48,9 +48,16 @@ toc-depth: 2
 - Help close deals. I work alongside Sales and Business Development on technical scoping, demos, and discovery.
 - Sit between Product and clients. The PS team is one of Product's loudest internal voices on what's working and what isn't.
 
+**Selected client and product work**
+
+- Lead engineer on **Biorelate's internal biomedical AI agent platform**: agent orchestration, memory, evaluation, and biomedical tool-use over a curated knowledge graph.
+- Led delivery of a **target safety assessment app for a life-sciences pharma client**. Knowledge-graph and LLM-driven evidence retrieval, programmatic citation, regulator-ready outputs.
+- Designed and ran a **managed-AI vendor integration** evaluation: selection, scoping, and validation of a third-party LLM platform to extend Biorelate's data-science offering.
+
 **Selected achievements**
 
 - Built the Professional Services function from zero. Consistent client satisfaction and renewals to date.
+- Helped secure **£400K+ in new client contracts** through technical scoping, demos, and discovery alongside Sales and Business Development.
 - Contributed to **over £1M in annual sales**.
 - Built strong working relationships across Sales, Business Development, Marketing, Product, and Data Science.
 
@@ -61,10 +68,10 @@ toc-depth: 2
 - Built ML models for multivariate time-series forecasting that worked when clients only had a small amount of data to train on.
 - **Key achievement:** built an EDA and ML web application in Streamlit (pandas, NumPy, scikit-learn, PyCaret, Prophet, MLflow, Docker) so the team could explore, clean, and track time-series experiments without leaving the browser.
 
-### Chief Technology Officer (interim, head-hunted) · Mindwave Ventures *(now [Claryon Systems](https://claryonsystems.com))*
+### Chief Technology Officer (interim, head-hunted) · Mindwave Ventures *(later rebranded as [Claryon Systems](https://claryonsystems.com) after my tenure)*
 **August 2019 – February 2020** · London, UK · UK & India
 
-Head-hunted by the CEO to take a CTO-level role spanning Mindwave's UK and India engineering teams during the rebrand to Claryon Systems. NHS-focused digital-health delivery.
+Head-hunted by the CEO to take a CTO-level role spanning Mindwave's UK and India engineering teams. NHS-focused digital-health delivery.
 
 - Ran and mentored a development team in India. Set engineering standards, established code-review practice, and a regular working rhythm with the UK product and delivery side.
 - Worked with NHS stakeholders and the UK team to turn clinical and operational requirements into architectures, backlogs, and implementation plans the engineering team could ship against.

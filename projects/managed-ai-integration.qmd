@@ -1,0 +1,31 @@
+---
+title: "Managed-AI platform integration (Biorelate)"
+description: "Selection, scoping, and integration of a third-party managed-AI platform to extend Biorelate's data-science offering. Vendor name withheld."
+date: 2026-02-10
+categories: [llm, integration, professional-services, evaluation]
+---
+
+## What it is
+
+An integration evaluation: could a **managed third-party LLM platform** sit alongside Biorelate's own stack and extend what we offer to clients without compromising data handling, citation integrity, or evaluation discipline?
+
+::: {.callout-note appearance="minimal"}
+**Vendor name withheld** in this write-up.
+:::
+
+## What I did
+
+- Designed and ran the evaluation. Defined the criteria up front: data sovereignty, citation handling, evaluation harness, observability, deployment topology, and cost.
+- Built test harnesses for the parts that matter to clients: agentic round-trips, tool use, output sanitisation, citation correctness.
+- Surfaced where the platform is strong (managed infra, fast iteration) and where it has rough edges (round-trip topology, observability gaps under certain step counts).
+- Documented integration patterns so the wider Biorelate team can plug the platform into client engagements without relearning the gotchas.
+
+## Outcome
+
+- A validated integration path. Clear "use this when, don't use this when" guidance.
+- Reusable test fixtures and a small library of integration patterns.
+- Faster onboarding for any future engagement that wants to lean on the platform.
+
+## What I learned
+
+A managed-AI platform's marketing materials rarely describe its actual round-trip topology. Test harnesses that exercise agentic behaviour end-to-end (not just single-prompt completions) reveal the operationally important quirks.

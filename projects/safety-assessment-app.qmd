@@ -1,0 +1,36 @@
+---
+title: "Target safety assessment app (life-sciences pharma client)"
+description: "Knowledge graph + LLM-driven evidence retrieval for regulator-ready target safety assessment reports. Anonymised."
+date: 2026-03-15
+categories: [biomedical-ai, knowledge-graphs, llm, rag, professional-services]
+---
+
+## What it is
+
+A target safety assessment application built for a **life-sciences pharma client** under Biorelate's Professional Services. The brief: take a candidate target and produce a regulator-ready safety report, faster and more reliably than the existing manual process.
+
+::: {.callout-note appearance="minimal"}
+**Client name withheld.** Anonymised case study; details intentionally generic.
+:::
+
+## The problem
+
+Target safety assessment is evidence-heavy. Reviewers comb literature, clinical trial data, and curated databases to build a picture of a target's safety profile. The manual workflow is slow, brittle, and hard to audit. Citations get attached after the fact, sometimes incorrectly.
+
+## What I did
+
+- Led delivery end-to-end: scoping with the client, technical design, data integration, build, and handover.
+- Wired Biorelate's biomedical knowledge graph and curated literature corpus into an LLM-driven evidence retrieval layer.
+- Made citation **programmatic and deterministic**, not LLM-generated. Every cited reference is provably present in the report's reference list.
+- Built non-Latin character sanitisation and citation-pattern validation into the export step. LLM hallucination patterns get caught before output reaches the client.
+- Stood up a QA loop with the client's domain experts to validate report quality against their evaluation rubric.
+
+## Outcome
+
+- Regulator-ready safety reports, generated in a fraction of the manual review time.
+- Citation integrity guaranteed at the system level (not LLM-dependent).
+- Repeatable architecture: the same backbone now supports related assessment workflows.
+
+## Stack
+
+Python, biomedical knowledge graph (Galactic), LLM evidence retrieval, programmatic citation, structured output validation, regulator-ready PDF export.

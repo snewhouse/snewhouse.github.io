@@ -14,7 +14,10 @@ Before Biorelate I held roles at **Grid Edge** (Data Scientist), **Mindwave Vent
 
 ## Current focus
 
-- **Biomedical AI & knowledge graphs**. Biorelate's core, applied to target, drug, and biomarker discovery and indication expansion.
+- **Lead engineer on Biorelate's internal biomedical AI agent platform**. Agent orchestration, memory, evaluation, biomedical tool-use over a curated knowledge graph.
+- **Target safety assessment apps for life-sciences pharma clients**. Knowledge graph + LLM evidence retrieval, programmatic citation, regulator-ready outputs.
+- **Managed-AI platform integration**. Extending Biorelate's data-science offering through third-party LLM platforms.
+- **Biomedical AI & knowledge graphs more broadly**. Biorelate's core, applied to target, drug, and biomarker discovery and indication expansion.
 - **Agentic engineering**. LLM systems, RAG, memory, tool-use, evaluation. See [`aa-ma-forge`](https://github.com/snewhouse/aa-ma-forge).
 - **Multi-omics + personalised medicine**. Where I think the most interesting signal is right now.
 - **Open source & teaching**. I still enjoy writing things down and giving them away. See [`awesome-genetics-software`](https://github.com/snewhouse/awesome-genetics-software) and the [archive](archive.qmd) of older teaching material.

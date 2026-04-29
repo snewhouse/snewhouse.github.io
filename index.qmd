@@ -43,6 +43,13 @@ Somewhere along the way I appear to have become an **Agentic Engineer**. Not by 
 **Always happy to connect** with people working at the intersection of data, biology, and drug discovery. → [LinkedIn](https://www.linkedin.com/in/sjnewhouse/) · [Email](mailto:stephen.j.newhouse@gmail.com)
 :::
 
+### Recent outcomes
+
+- Helped secure **£400K+ in new client contracts** for Biorelate this year.
+- Lead engineer on **Biorelate's internal biomedical AI agent platform** (memory, tool-use, evaluation, biomedical knowledge-graph reasoning).
+- Delivered a **target safety assessment app** for a life-sciences pharma client. Knowledge graph + LLM evidence retrieval, programmatic citation, regulator-ready outputs.
+- Designed and ran a **managed-AI vendor integration** evaluation, extending Biorelate's data-science offering.
+
 ### What I'm working on
 
 - **Biomedical AI at Biorelate**. Knowledge graphs, NLP, target, drug, and biomarker discovery, indication expansion.
