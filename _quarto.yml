@@ -53,9 +53,6 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/in/sjnewhouse/
         aria-label: LinkedIn
-      - text: "🤗"
-        href: https://huggingface.co/sjnewhouse
-        aria-label: Hugging Face
       - icon: mortarboard
         href: https://orcid.org/0000-0002-1843-9842
         aria-label: ORCID
