@@ -1,0 +1,247 @@
+[
+  {
+    "objectID": "projects/awesome-genetics-software.html",
+    "href": "projects/awesome-genetics-software.html",
+    "title": "awesome-genetics-software",
+    "section": "",
+    "text": "A long-running, community-friendly curated list of software for genetic analysis: variant callers, GWAS tooling, population genetics, annotation, visualisation, and more.\n→ Repository on GitHub"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A selection of work-in-progress and open-source projects. The full list lives on GitHub (212+ repos) and Hugging Face."
+  },
+  {
+    "objectID": "projects.html#featured",
+    "href": "projects.html#featured",
+    "title": "Projects",
+    "section": "Featured",
+    "text": "Featured\n\n\n\n\n\n\n\n\n\n\naa-ma-forge\n\n\n\nagentic-ai\n\n\nllm\n\n\nmemory\n\n\nopen-source\n\n\n\nAdvanced Agentic Memory Architecture. Long-term, structured memory for LLM agents.\n\n\n\nJan 15, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nawesome-genetics-software\n\n\n\nbioinformatics\n\n\ngenomics\n\n\nawesome-list\n\n\nopen-source\n\n\n\nA curated list of tools for genetic and genomic analysis.\n\n\n\nJun 1, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects.html#other-things-worth-a-look",
+    "href": "projects.html#other-things-worth-a-look",
+    "title": "Projects",
+    "section": "Other things worth a look",
+    "text": "Other things worth a look\n\naa-ma-forge. Advanced Agentic Memory Architecture (pinned).\nawesome-genetics-software. Curated list of genetics tooling (pinned).\nKHP-Informatics. King’s Health Partners bioinformatics org I’ve contributed to."
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nWelcome. Site relaunch.\n\n\n\n\n\n\nmeta\n\n\n\nAfter a long pause, the site is back. Here’s what’s new and what’s coming.\n\n\n\n\n\nApr 29, 2026\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV. Stephen J Newhouse",
+    "section": "",
+    "text": "Note\n\n\n\nPDF version: drop a cv.pdf into assets/ and the link below will work → Download PDF"
+  },
+  {
+    "objectID": "cv.html#headline",
+    "href": "cv.html#headline",
+    "title": "CV. Stephen J Newhouse",
+    "section": "Headline",
+    "text": "Headline\nDr Stephen J Newhouse, PhD. Head of Professional Services & Senior Bioinformatician at Biorelate Ltd.\n20+ years across academia, NHS, and industry: bioinformatics, ML, target, drug, and biomarker discovery, knowledge graphs, agentic AI.\n📍 Manchester, England, UK. Open to hybrid / remote.\nLinkedIn · GitHub · Hugging Face · ORCID · Google Scholar · KCL Pure"
+  },
+  {
+    "objectID": "cv.html#top-skills",
+    "href": "cv.html#top-skills",
+    "title": "CV. Stephen J Newhouse",
+    "section": "Top skills",
+    "text": "Top skills\nTop 3 (LinkedIn): Agile Methodologies · Data Management · Natural Language Processing (NLP).\n\nLanguages: Python, R, Bash, SQL.\nML / data: scikit-learn, PyCaret, Prophet, MLflow, pandas, NumPy, Streamlit, classical stats, time-series, biostats.\nNLP & knowledge graphs: biomedical text mining, entity and relation extraction, graph-based reasoning.\nLLM / agentic AI: RAG, agent memory, tool-use, evaluation, MCP, Anthropic / OpenAI / HuggingFace stacks.\nBioinformatics: NGS (DNA/RNA), variant calling, GWAS, RNA-seq, multi-omics, drug repurposing, Illumina arrays.\nPipelines & infra: Snakemake, Nextflow, Docker, Conda; Git/GitHub; CI/CD.\nCloud: AWS, GCP.\nLeadership: team building, client engagement, training, consulting, cross-functional delivery, Agile."
+  },
+  {
+    "objectID": "cv.html#languages",
+    "href": "cv.html#languages",
+    "title": "CV. Stephen J Newhouse",
+    "section": "Languages",
+    "text": "Languages\n\nEnglish. Native or bilingual."
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "CV. Stephen J Newhouse",
+    "section": "Experience",
+    "text": "Experience\n\nHead of Professional Services & Senior Bioinformatician · Biorelate Ltd.\nJune 2021 – present · United Kingdom (Manchester)\n\nBuilt and lead the Professional Services team at Biorelate. I set the strategy, hire the team, and own client outcomes.\nRun client onboarding, training, and product trials. Make sure people actually use what we ship and get real value out of it.\nLead bespoke consultancy engagements, applying Biorelate’s NLP, knowledge graph, and biomedical AI stack to whatever the client’s actual problem is.\nHelp close deals. I work alongside Sales and Business Development on technical scoping, demos, and discovery.\nSit between Product and clients. The PS team is one of Product’s loudest internal voices on what’s working and what isn’t.\n\nSelected achievements\n\nBuilt the Professional Services function from zero. Consistent client satisfaction and renewals to date.\nContributed to over £1M in annual sales.\nBuilt strong working relationships across Sales, Business Development, Marketing, Product, and Data Science.\n\n\n\nData Scientist · Grid Edge\nJanuary 2021 – June 2021 · United Kingdom\n\nWorked with the data-science team on ML products. Delivered on time, on budget, on spec.\nBuilt ML models for multivariate time-series forecasting that worked when clients only had a small amount of data to train on.\nKey achievement: built an EDA and ML web application in Streamlit (pandas, NumPy, scikit-learn, PyCaret, Prophet, MLflow, Docker) so the team could explore, clean, and track time-series experiments without leaving the browser.\n\n\n\nChief Technology Officer (interim, head-hunted) · Mindwave Ventures (now Claryon Systems)\nAugust 2019 – February 2020 · London, UK · UK & India\nHead-hunted by the CEO to take a CTO-level role spanning Mindwave’s UK and India engineering teams during the rebrand to Claryon Systems. NHS-focused digital-health delivery.\n\nRan and mentored a development team in India. Set engineering standards, established code-review practice, and a regular working rhythm with the UK product and delivery side.\nWorked with NHS stakeholders and the UK team to turn clinical and operational requirements into architectures, backlogs, and implementation plans the engineering team could ship against.\nLed containerisation and Docker security for NHS-facing platforms: secure network design, container hardening, and deployment pipelines fit for UK healthcare security expectations.\nTightened communication between UK client-facing colleagues and the engineering team in India. Less requirements ambiguity, faster delivery on NHS and related digital-health work.\n\n\n\nKing’s College London · (8 years total, 2011 – 2019)\n\nBioinformatics Module Lead, Genomic Medicine MSc\nNovember 2015 – August 2019 · KCL & SGUL\nDesigned and ran the bioinformatics week for the MSc in Genomic Medicine: lectures and hands-on practicals tied to the 100,000 Genomes Project. Course material: snewhouse/Genomic-Medicine-MSc-Bioinformatics.\n\n\nData Science Group Lead, Department of Biostatistics & Health Informatics\nNovember 2015 – August 2019 · London, UK\n\nLed a sub-team working on genomic and transcriptomic data for neurodegenerative and psychiatric disorders.\nBuilt bioinformatics pipelines for genomic and transcriptomic analysis, including drug-repurposing pipelines using public and private datasets.\nRan a small Core Bioinformatics service that took Illumina SNP and expression-array data from raw output to analysis-ready.\nSat on the Bioinformatics and IT Committee for the South London Genomic Medicine Centre.\nConsulted on NGS pipelines for local NHS Genetics Labs and research groups.\nConsulted across the department on biostatistics, statistical genetics, ML, predictive modelling, and EDA.\nCo-supervised PhD students (academic and pastoral support).\nTaught BSc, MSc, PhD, NHS, and working-professional cohorts.\n\n\n\nSenior Bioinformatician, NIHR BRC for Mental Health, Institute of Psychiatry\nSeptember 2011 – August 2019 · London, UK\nThe umbrella post for the KCL years above. Bioinformatics support and methods development for psychiatric and neurodegenerative research across the BRC, including the SGDP affiliation below.\n\n\nAssociate Member, MRC SGDP, Institute of Psychiatry, Psychology & Neuroscience\nMarch 2015 – August 2019 · London, UK"
+  },
+  {
+    "objectID": "cv.html#past-roles",
+    "href": "cv.html#past-roles",
+    "title": "CV. Stephen J Newhouse",
+    "section": "Past roles",
+    "text": "Past roles\nA compact timeline of earlier and shorter posts. Happy to talk about any of these in more detail on request.\n\n2017–2019. Honorary Senior Lecturer, UCL (London, UK). Concurrent with the KCL Data Science Group Lead role.\n2010–2011. Postdoctoral Researcher, Institute of Psychiatry, KCL (London, UK).\n2009–2010. Postdoctoral Research Fellow, University of Cambridge (Cambridge, UK).\n2006–2009. Postdoctoral Research Fellow, Queen Mary University of London (London, UK)."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV. Stephen J Newhouse",
+    "section": "Education",
+    "text": "Education\n\nPhD, Genetics. Queen Mary University of London (2001 – 2006).\nMSc, Forensic Science and Technology. King’s College London (1999 – 2000).\nBSc (Hons), Molecular Biology. University of Liverpool (1996 – 1999)."
+  },
+  {
+    "objectID": "cv.html#certifications-training",
+    "href": "cv.html#certifications-training",
+    "title": "CV. Stephen J Newhouse",
+    "section": "Certifications & training",
+    "text": "Certifications & training\n\nMental Health First Aid Champion. MHFA England (2020).\nGDPR Foundations.\nIntro to Python for Data Science.\nIntroduction to R.\nData Exploration with Kaggle Scripts.\nKaggle Python Tutorial on Machine Learning."
+  },
+  {
+    "objectID": "cv.html#selected-publications",
+    "href": "cv.html#selected-publications",
+    "title": "CV. Stephen J Newhouse",
+    "section": "Selected publications",
+    "text": "Selected publications\nFull list: Google Scholar · tinyurl.com/mujf69xs · Impactstory · KCL Pure · ORCID.\nCitation metrics are best read live from Scholar or Scopus. They don’t belong hard-coded on a static page."
+  },
+  {
+    "objectID": "cv.html#talks-teaching",
+    "href": "cv.html#talks-teaching",
+    "title": "CV. Stephen J Newhouse",
+    "section": "Talks & teaching",
+    "text": "Talks & teaching\n\nExcuse me, do you have a moment to talk about version control? Dept talk, KCL, 2018-04-10. Slides & paper (archived).\nNGS Galaxy Workshop. 2019. Materials (archived).\nBioinformatics Module, Genomic Medicine MSc. KCL & SGUL, 2015–2019. Course material."
+  },
+  {
+    "objectID": "cv.html#open-source",
+    "href": "cv.html#open-source",
+    "title": "CV. Stephen J Newhouse",
+    "section": "Open source",
+    "text": "Open source\n\naa-ma-forge. Advanced Agentic Memory Architecture.\nawesome-genetics-software. Curated list of genetics tooling.\nGenomic-Medicine-MSc-Bioinformatics. KCL teaching materials.\n200+ public repos on GitHub.\nPast contributions to KHP-Informatics (King’s Health Partners)."
+  },
+  {
+    "objectID": "cv.html#references",
+    "href": "cv.html#references",
+    "title": "CV. Stephen J Newhouse",
+    "section": "References",
+    "text": "References\nAvailable on request."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m Dr Stephen J Newhouse: BSc (Hons), MSc, PhD. 20+ years in bioinformatics, genomics, and life-sciences data science, working across academia, the NHS, and industry.\nI’m currently Head of Professional Services and Senior Bioinformatician at Biorelate Ltd. in Manchester, UK. I lead the team that turns Biorelate’s biomedical AI, knowledge graph, and NLP products into real client outcomes in target, drug, and biomarker discovery, indication expansion, and systems biology.\nBefore Biorelate I held roles at Grid Edge (Data Scientist), Mindwave Ventures (CTO), and UCL (Honorary Senior Lecturer). I spent eight years at King’s College London as a Senior Bioinformatician and Data Science Group Lead at the NIHR Biomedical Research Centre for Mental Health, including module-leading the Bioinformatics module of the MSc in Genomic Medicine. Earlier postdoctoral work at the Institute of Psychiatry, University of Cambridge, and Queen Mary University of London, where I also did my PhD in Genetics."
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About",
+    "section": "",
+    "text": "I’m Dr Stephen J Newhouse: BSc (Hons), MSc, PhD. 20+ years in bioinformatics, genomics, and life-sciences data science, working across academia, the NHS, and industry.\nI’m currently Head of Professional Services and Senior Bioinformatician at Biorelate Ltd. in Manchester, UK. I lead the team that turns Biorelate’s biomedical AI, knowledge graph, and NLP products into real client outcomes in target, drug, and biomarker discovery, indication expansion, and systems biology.\nBefore Biorelate I held roles at Grid Edge (Data Scientist), Mindwave Ventures (CTO), and UCL (Honorary Senior Lecturer). I spent eight years at King’s College London as a Senior Bioinformatician and Data Science Group Lead at the NIHR Biomedical Research Centre for Mental Health, including module-leading the Bioinformatics module of the MSc in Genomic Medicine. Earlier postdoctoral work at the Institute of Psychiatry, University of Cambridge, and Queen Mary University of London, where I also did my PhD in Genetics."
+  },
+  {
+    "objectID": "about.html#current-focus",
+    "href": "about.html#current-focus",
+    "title": "About",
+    "section": "Current focus",
+    "text": "Current focus\n\nBiomedical AI & knowledge graphs. Biorelate’s core, applied to target, drug, and biomarker discovery and indication expansion.\nAgentic engineering. LLM systems, RAG, memory, tool-use, evaluation. See aa-ma-forge.\nMulti-omics + personalised medicine. Where I think the most interesting signal is right now.\nOpen source & teaching. I still enjoy writing things down and giving them away. See awesome-genetics-software and the archive of older teaching material."
+  },
+  {
+    "objectID": "about.html#expertise",
+    "href": "about.html#expertise",
+    "title": "About",
+    "section": "Expertise",
+    "text": "Expertise\n\nBioinformatics & genomics. NGS (DNA/RNA), variant analysis, GWAS, RNA-seq, multi-omics, drug repurposing pipelines, Illumina arrays.\nData science / ML. Predictive modelling, biomarker discovery, EDA, time-series, model evaluation, MLOps (MLflow, PyCaret, Prophet).\nNLP & knowledge graphs. Biomedical text mining, entity and relation extraction, graph-based reasoning.\nAgentic AI / LLMs. RAG, agent memory, tool-use, evaluation, MCP.\nStatistics & genetics. Biostatistics, statistical genetics, applied predictive modelling.\nEngineering. Python, R, Bash; Docker; Snakemake, Nextflow; CI/CD; AWS, GCP; Streamlit; Git/GitHub.\nLeadership & delivery. Building and leading teams, client engagement, training, consulting, Agile delivery."
+  },
+  {
+    "objectID": "about.html#profiles-identifiers",
+    "href": "about.html#profiles-identifiers",
+    "title": "About",
+    "section": "Profiles & identifiers",
+    "text": "Profiles & identifiers\n\n\n\nProfile\nLink\n\n\n\n\nLinkedIn\nin/sjnewhouse\n\n\nGitHub\nsnewhouse · KHP-Informatics\n\n\nHugging Face\nsjnewhouse\n\n\nGoogle Scholar\nprofile\n\n\nKCL Pure\nstephen.newhouse\n\n\nORCID\n0000-0002-1843-9842\n\n\nImpactstory\nprofile\n\n\nScopus Author ID\n8931613700\n\n\nResearcherID\nC-9330-2011\n\n\nPublications shortcut\ntinyurl.com/mujf69xs\n\n\nTwitter / X\n@s_j_newhouse\n\n\n\n\n\n\n\n\n\nCitation metrics are kept current by Google Scholar / Scopus rather than hard-coded here, so they don’t go stale."
+  },
+  {
+    "objectID": "about.html#personal",
+    "href": "about.html#personal",
+    "title": "About",
+    "section": "Personal",
+    "text": "Personal\nOutside work I’m a dad, a husband, and an MS warrior. I’m a Mental Health First Aid Champion (MHFA England, 2020) and care a lot about open science, mental health in research and tech, and making teams that work for the humans in them."
+  },
+  {
+    "objectID": "archive.html",
+    "href": "archive.html",
+    "title": "Archive",
+    "section": "",
+    "text": "Older materials, kept here so links from papers, talks, and workshops keep working. Treat as historical."
+  },
+  {
+    "objectID": "archive.html#legacy-homepage",
+    "href": "archive.html#legacy-homepage",
+    "title": "Archive",
+    "section": "Legacy homepage",
+    "text": "Legacy homepage\n\nOriginal 2016–2018 homepage (large pandoc HTML)"
+  },
+  {
+    "objectID": "archive.html#cvs",
+    "href": "archive.html#cvs",
+    "title": "Archive",
+    "section": "CVs",
+    "text": "CVs\n\nCV index (R Markdown source + rendered HTML)\n\nResearch CV, 2018 (HTML)\nData Science CV, 2016 (Rmd source)\n\n\nFor the current CV, see /cv."
+  },
+  {
+    "objectID": "archive.html#talks",
+    "href": "archive.html#talks",
+    "title": "Archive",
+    "section": "Talks",
+    "text": "Talks\n\nExcuse me, do you have a moment to talk about version control? Dept talk, KCL, 2018-04-10. Slides (HTML) · Source (Rmd) · Companion paper (PDF) · README"
+  },
+  {
+    "objectID": "archive.html#workshops",
+    "href": "archive.html#workshops",
+    "title": "Archive",
+    "section": "Workshops",
+    "text": "Workshops\n\nNGS Galaxy Workshop, 2019. Materials (HTML)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dr Stephen J Newhouse",
+    "section": "",
+    "text": "I’ve spent 20+ years in bioinformatics, genomics, and life-sciences data science. That sounds like a long time until you remember how much the field has changed in just the last five. The questions stay the same though: how do we make sense of complex biomedical data, and how do we turn it into something that actually helps people?\nAt Biorelate I lead Professional Services. In practice that means making sure the science we’re doing connects to what our clients actually need: accelerating a drug-discovery pipeline, untangling a messy real-world data workflow, or helping a team understand what they’ve got and what they can do with it.\nBefore this I worked across academia, the NHS, and pharma, building and leading teams, shipping ML models, and trying to make large-scale data projects land well in the real world.\nSomewhere along the way I appear to have become an Agentic Engineer. Not by design, more by osmosis and a stubborn refusal to fall behind the LLM Joneses. Right now I’m particularly interested in where knowledge graphs, RAG, and multi-omics data are heading, and what that means for personalised medicine.\n\n\n\n\n\n\nAlways happy to connect with people working at the intersection of data, biology, and drug discovery. → LinkedIn · Email\n\n\n\n\n\n\nBiomedical AI at Biorelate. Knowledge graphs, NLP, target, drug, and biomarker discovery, indication expansion.\nAgentic AI. Memory, tool-use, evaluation. See aa-ma-forge.\nGenomics tooling. Curating awesome-genetics-software.\nWriting & sharing. See the blog and archived talks.\n\n\n\n\n\n📄 CV →\n🛠️ Projects →\n✍️ Blog →\n📚 Publications: Google Scholar · tinyurl.com/mujf69xs · Impactstory"
+  },
+  {
+    "objectID": "index.html#hi-im-stephen.",
+    "href": "index.html#hi-im-stephen.",
+    "title": "Dr Stephen J Newhouse",
+    "section": "",
+    "text": "I’ve spent 20+ years in bioinformatics, genomics, and life-sciences data science. That sounds like a long time until you remember how much the field has changed in just the last five. The questions stay the same though: how do we make sense of complex biomedical data, and how do we turn it into something that actually helps people?\nAt Biorelate I lead Professional Services. In practice that means making sure the science we’re doing connects to what our clients actually need: accelerating a drug-discovery pipeline, untangling a messy real-world data workflow, or helping a team understand what they’ve got and what they can do with it.\nBefore this I worked across academia, the NHS, and pharma, building and leading teams, shipping ML models, and trying to make large-scale data projects land well in the real world.\nSomewhere along the way I appear to have become an Agentic Engineer. Not by design, more by osmosis and a stubborn refusal to fall behind the LLM Joneses. Right now I’m particularly interested in where knowledge graphs, RAG, and multi-omics data are heading, and what that means for personalised medicine.\n\n\n\n\n\n\nAlways happy to connect with people working at the intersection of data, biology, and drug discovery. → LinkedIn · Email\n\n\n\n\n\n\nBiomedical AI at Biorelate. Knowledge graphs, NLP, target, drug, and biomarker discovery, indication expansion.\nAgentic AI. Memory, tool-use, evaluation. See aa-ma-forge.\nGenomics tooling. Curating awesome-genetics-software.\nWriting & sharing. See the blog and archived talks.\n\n\n\n\n\n📄 CV →\n🛠️ Projects →\n✍️ Blog →\n📚 Publications: Google Scholar · tinyurl.com/mujf69xs · Impactstory"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome. Site relaunch.",
+    "section": "",
+    "text": "After several years untouched, this site is back online: rebuilt with Quarto, tidied up, and pointed firmly at where I’m spending my time now: agentic AI alongside the bioinformatics and ML for health work.\nA few practical notes:\n\nThe old 2018-era homepage, CVs, and workshop materials are preserved under /archive/. Links you may have shared still work.\nThe Projects page is where new work will land.\nThis is the first post on the new Blog. Expect short, technical notes on what I’ve learned, broken, and fixed.\n\nIf you’d like to chat about work, collaboration, or just say hi, LinkedIn is the fastest way to reach me."
+  },
+  {
+    "objectID": "projects/aa-ma-forge.html",
+    "href": "projects/aa-ma-forge.html",
+    "title": "aa-ma-forge",
+    "section": "",
+    "text": "aa-ma-forge (AA-MA: Advanced Agentic Memory Architecture) is an in-progress framework for giving LLM agents structured, persistent, queryable memory, beyond a vector store.\nThe goal: agents that genuinely accumulate knowledge across sessions, with clean separation between episodic, semantic, and procedural memory."
+  },
+  {
+    "objectID": "projects/aa-ma-forge.html#what-it-is",
+    "href": "projects/aa-ma-forge.html#what-it-is",
+    "title": "aa-ma-forge",
+    "section": "",
+    "text": "aa-ma-forge (AA-MA: Advanced Agentic Memory Architecture) is an in-progress framework for giving LLM agents structured, persistent, queryable memory, beyond a vector store.\nThe goal: agents that genuinely accumulate knowledge across sessions, with clean separation between episodic, semantic, and procedural memory."
+  },
+  {
+    "objectID": "projects/aa-ma-forge.html#status",
+    "href": "projects/aa-ma-forge.html#status",
+    "title": "aa-ma-forge",
+    "section": "Status",
+    "text": "Status\nActive R&D. See the repo for the current state."
+  },
+  {
+    "objectID": "projects/aa-ma-forge.html#why-it-matters",
+    "href": "projects/aa-ma-forge.html#why-it-matters",
+    "title": "aa-ma-forge",
+    "section": "Why it matters",
+    "text": "Why it matters\nMost “agent memory” today is just RAG with extra steps. Real agentic systems need memory that supports recall, consolidation, forgetting, and reasoning over what was learned.\n→ Repository on GitHub"
+  }
+]

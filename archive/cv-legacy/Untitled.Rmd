@@ -1,0 +1,12 @@
+---
+title: "notes"
+author: "Dr Stephen J Newhouse"
+date: "11/04/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+- https://www.thebalance.com/personal-skills-list-2063763

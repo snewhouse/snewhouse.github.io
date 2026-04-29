@@ -1,0 +1,3 @@
+Contact: https://github.com/snewhouse/snewhouse.github.io/issues
+Preferred-Languages: en
+Canonical: https://snewhouse.github.io/.well-known/security.txt

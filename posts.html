@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Dr Stephen J Newhouse. Head of Professional Services &amp; Senior Bioinformatician at Biorelate. PhD in Genetics. Target, drug, and biomarker discovery, knowledge graphs, ML, agentic AI. Manchester, UK.">
+<meta name="description" content="Notes and writing by Stephen J Newhouse on data science, bioinformatics, and agentic AI.">
 
-<title>Stephen J Newhouse. Head of Professional Services, Biorelate. Bioinformatics, ML, agentic AI. – Stephen J Newhouse</title>
+<title>Blog. Stephen J Newhouse – Stephen J Newhouse</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -32,9 +32,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./assets/favicon.svg" rel="icon" type="image/svg+xml">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
@@ -68,6 +71,35 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-description','listing-categories','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <style>html{ scroll-behavior: smooth; }</style>
 <!-- SEO -->
 <meta name="author" content="Stephen J Newhouse">
@@ -178,13 +210,40 @@ ul.task-list li input[type="checkbox"] {
 }
 </script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Stephen J Newhouse. Head of Professional Services, Biorelate. Bioinformatics, ML, agentic AI.">
-<meta property="og:description" content="Head of Professional Services &amp; Senior Bioinformatician at Biorelate. Bioinformatics, ML, agentic AI.">
+<link rel="alternate" type="application/rss+xml" title="Stephen J Newhouse. Blog" href="posts.xml" data-external="1"><meta property="og:title" content="Blog. Stephen J Newhouse">
 <meta property="og:site_name" content="Stephen J Newhouse">
-<meta name="twitter:title" content="Stephen J Newhouse. Head of Professional Services, Biorelate. Bioinformatics, ML, agentic AI.">
-<meta name="twitter:description" content="Head of Professional Services &amp; Senior Bioinformatician at Biorelate. Bioinformatics, ML, agentic AI.">
+<meta name="twitter:title" content="Blog. Stephen J Newhouse">
 <meta name="twitter:creator" content="@s_j_newhouse">
 <meta name="twitter:site" content="@s_j_newhouse">
 <meta name="twitter:card" content="summary_large_image">
@@ -211,7 +270,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -227,7 +286,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./posts.html"> 
+    <a class="nav-link active" href="./posts.html" aria-current="page"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
@@ -264,104 +323,95 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-  <ul>
-  <li><a href="#hi-im-stephen." id="toc-hi-im-stephen." class="nav-link active" data-scroll-target="#hi-im-stephen.">Hi, I’m Stephen.</a>
-  <ul class="collapse">
-  <li><a href="#what-im-working-on" id="toc-what-im-working-on" class="nav-link" data-scroll-target="#what-im-working-on">What I’m working on</a></li>
-  <li><a href="#quick-links" id="toc-quick-links" class="nav-link" data-scroll-target="#quick-links">Quick links</a></li>
-  </ul></li>
-  </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/snewhouse/snewhouse.github.io/edit/main/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/snewhouse/snewhouse.github.io/blob/main/index.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/snewhouse/snewhouse.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
-    </div>
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="meta">meta <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<div class="quarto-about-trestles">
-  <div class="about-entity">
-    <img src="assets/avatar.svg" class="about-image
-  round " style="height: 18em; width: 18em;">
+<main class="content column-page-left" id="quarto-document-content">
+
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Dr Stephen J Newhouse</h1>
-<p class="subtitle lead">Head of Professional Services &amp; Senior Bioinformatician at Biorelate. Bioinformatics, ML, agentic AI.</p>
+<h1 class="title">Blog</h1>
 </div>
-<div class="quarto-title-meta">
+
+
+
+<div class="quarto-title-meta column-page-left">
+
+    
+  
+    
   </div>
+  
+
+
 </header>
-    <div class="about-links">
-  <a href="https://www.linkedin.com/in/sjnewhouse/" class="about-link" rel="" target="">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-  <a href="https://github.com/snewhouse" class="about-link" rel="" target="">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">GitHub</span>
-  </a>
-  <a href="https://huggingface.co/sjnewhouse" class="about-link" rel="" target="">
-     <span class="about-link-text">🤗 Hugging Face</span>
-  </a>
-  <a href="https://orcid.org/0000-0002-1843-9842" class="about-link" rel="" target="">
-     <span class="about-link-text">ORCID</span>
-  </a>
-  <a href="https://scholar.google.co.uk/citations?user=NPnNtkMAAAAJ" class="about-link" rel="" target="">
-     <span class="about-link-text">Google Scholar</span>
-  </a>
-  <a href="https://kclpure.kcl.ac.uk/portal/stephen.newhouse.html" class="about-link" rel="" target="">
-    <i class="bi bi-building"></i>
-     <span class="about-link-text">KCL Pure</span>
-  </a>
-  <a href="mailto:stephen.j.newhouse@gmail.com" class="about-link" rel="" target="">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text">Email</span>
-  </a>
-</div>
+
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-date-sort" data-direction="asc">
+          Date - Oldest
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Date - Newest
+        </option>
+     </select>
   </div>
-  <div class="about-contents"><main class="content" id="quarto-document-content">
-
-<section id="hi-im-stephen." class="level2">
-<h2 data-anchor-id="hi-im-stephen.">Hi, I’m Stephen.</h2>
-<p>I’ve spent <strong>20+ years</strong> in bioinformatics, genomics, and life-sciences data science. That sounds like a long time until you remember how much the field has changed in just the last five. The questions stay the same though: <strong>how do we make sense of complex biomedical data, and how do we turn it into something that actually helps people?</strong></p>
-<p>At <strong><a href="https://www.biorelate.com">Biorelate</a></strong> I lead Professional Services. In practice that means making sure the science we’re doing connects to what our clients actually need: accelerating a drug-discovery pipeline, untangling a messy real-world data workflow, or helping a team understand what they’ve got and what they can do with it.</p>
-<p>Before this I worked across <strong>academia, the NHS, and pharma</strong>, building and leading teams, shipping ML models, and trying to make large-scale data projects land well in the real world.</p>
-<p>Somewhere along the way I appear to have become an <strong>Agentic Engineer</strong>. Not by design, more by osmosis and a stubborn refusal to fall behind the LLM Joneses. Right now I’m particularly interested in where <strong>knowledge graphs, RAG, and multi-omics data</strong> are heading, and what that means for personalised medicine.</p>
-<div class="callout callout-style-simple callout-note no-icon">
-<div class="callout-body d-flex">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
 </div>
-<div class="callout-body-container">
-<p><strong>Always happy to connect</strong> with people working at the intersection of data, biology, and drug discovery. → <a href="https://www.linkedin.com/in/sjnewhouse/">LinkedIn</a> · <a href="mailto:stephen.j.newhouse@gmail.com">Email</a></p>
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="meta" data-listing-date-sort="1777420800000" data-listing-file-modified-sort="1777464159026" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="104">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/welcome/index.html" class="no-external">Welcome. Site relaunch.</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/welcome/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('meta'); return false;">
+meta
+</div>
+</div>
+<div class="listing-description">
+<a href="./posts/welcome/index.html" class="no-external">After a long pause, the site is back. Here’s what’s new and what’s coming.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./posts/welcome/index.html" class="no-external">
+<div class="listing-date">
+Apr 29, 2026
+</div>
+<div class="listing-reading-time">
+1 min
+</div>
+</a>
 </div>
 </div>
 </div>
-<section id="what-im-working-on" class="level3">
-<h3 data-anchor-id="what-im-working-on">What I’m working on</h3>
-<ul>
-<li><strong>Biomedical AI at Biorelate</strong>. Knowledge graphs, NLP, target, drug, and biomarker discovery, indication expansion.</li>
-<li><strong>Agentic AI</strong>. Memory, tool-use, evaluation. See <a href="https://github.com/snewhouse/aa-ma-forge"><code>aa-ma-forge</code></a>.</li>
-<li><strong>Genomics tooling</strong>. Curating <a href="https://github.com/snewhouse/awesome-genetics-software"><code>awesome-genetics-software</code></a>.</li>
-<li><strong>Writing &amp; sharing</strong>. See the <a href="./posts.html">blog</a> and <a href="./archive.html">archived talks</a>.</li>
-</ul>
-</section>
-<section id="quick-links" class="level3">
-<h3 data-anchor-id="quick-links">Quick links</h3>
-<ul>
-<li>📄 <a href="./cv.html">CV →</a></li>
-<li>🛠️ <a href="./projects.html">Projects →</a></li>
-<li>✍️ <a href="./posts.html">Blog →</a></li>
-<li>📚 Publications: <a href="https://scholar.google.co.uk/citations?user=NPnNtkMAAAAJ">Google Scholar</a> · <a href="https://tinyurl.com/mujf69xs">tinyurl.com/mujf69xs</a> · <a href="https://profiles.impactstory.org/u/0000-0002-1843-9842">Impactstory</a></li>
-</ul>
-
-
-</section>
-</section>
-</main></div>
+<div class="listing-no-matching d-none">
+No matching items
 </div>
- <!-- /main -->
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -526,6 +576,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   } else {
     toggleColorMode(false);
   }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
@@ -932,7 +989,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/snewhouse/snewhouse.github.io/edit/main/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/snewhouse/snewhouse.github.io/blob/main/index.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/snewhouse/snewhouse.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions"><ul><li><a href="https://github.com/snewhouse/snewhouse.github.io/edit/main/posts.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/snewhouse/snewhouse.github.io/blob/main/posts.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/snewhouse/snewhouse.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
