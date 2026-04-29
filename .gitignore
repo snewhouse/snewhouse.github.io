@@ -1,0 +1,11 @@
+/.quarto/
+/_site/
+/_freeze/
+*.log
+.DS_Store
+.Rproj.user
+.Rhistory
+.Rdata
+*.utf8.md
+*.knit.md
+node_modules/

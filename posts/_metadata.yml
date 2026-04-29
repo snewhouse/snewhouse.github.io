@@ -1,0 +1,7 @@
+freeze: auto
+date-format: "iso"
+author: "Stephen J Newhouse"
+format:
+  html:
+    toc: true
+    code-tools: true

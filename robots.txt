@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Be polite to crawl-budget; index everything else
+Disallow: /_site/
+Disallow: /_freeze/
+
+Sitemap: https://snewhouse.github.io/sitemap.xml

@@ -1,0 +1,26 @@
+---
+title: "Projects"
+pagetitle: "Projects — Stephen J Newhouse"
+description-meta: "Selected projects and open-source work by Stephen J Newhouse."
+listing:
+  - id: featured
+    contents: projects/*.qmd
+    type: grid
+    fields: [image, title, description, categories, date]
+    sort: "date desc"
+    categories: true
+    feed: false
+---
+
+A selection of work-in-progress and open-source projects. The full list lives on [GitHub (212+ repos)](https://github.com/snewhouse?tab=repositories) and [Hugging Face](https://huggingface.co/sjnewhouse).
+
+## Featured
+
+::: {#featured}
+:::
+
+## Other things worth a look
+
+- [aa-ma-forge](https://github.com/snewhouse/aa-ma-forge) — Advanced Agentic Memory Architecture (pinned)
+- [awesome-genetics-software](https://github.com/snewhouse/awesome-genetics-software) — curated list of genetics tooling (pinned)
+- [KHP-Informatics](https://github.com/KHP-Informatics) — King's Health Partners bioinformatics org I've contributed to

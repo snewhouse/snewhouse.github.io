@@ -1,0 +1,18 @@
+---
+title: "Blog"
+pagetitle: "Blog — Stephen J Newhouse"
+description-meta: "Notes and writing by Stephen J Newhouse on data science, bioinformatics, and agentic AI."
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  fields: [date, title, description, categories, reading-time]
+  categories: true
+  sort-ui: [title, date]
+  filter-ui: true
+  feed:
+    title: "Stephen J Newhouse — Blog"
+    description: "Notes on data science, bioinformatics, and agentic AI."
+page-layout: full
+title-block-banner: false
+---

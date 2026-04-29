@@ -1,0 +1,1 @@
+TODO: drop a real headshot here as `avatar.jpg` (square, ~512×512). The homepage references `assets/avatar.jpg`; until you add one, the about-trestles block will show a broken image. A quick stand-in is to copy a LinkedIn profile picture, or temporarily change the `image:` field in `index.qmd` to `assets/favicon.svg`.

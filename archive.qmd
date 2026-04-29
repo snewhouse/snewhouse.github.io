@@ -1,0 +1,27 @@
+---
+title: "Archive"
+pagetitle: "Archive — Stephen J Newhouse"
+description-meta: "Archived materials from earlier work — preserved for reference."
+---
+
+Older materials, kept here so links from papers, talks, and workshops keep working. Treat as **historical**.
+
+## Legacy homepage
+
+- [Original 2016–2018 homepage](archive/homepage-legacy.html) (large pandoc HTML)
+
+## CVs
+
+- [CV index (R Markdown source + rendered HTML)](archive/cv-legacy/)
+  - [Research CV — 2018 (HTML)](archive/cv-legacy/cv_sjnewhouse_research.2018.html)
+  - [Data Science CV — 2016 (Rmd source)](archive/cv-legacy/cv_sjnewhouse_data_science_public.04.07.2016.Rmd)
+
+For the **current CV**, see [/cv](cv.qmd).
+
+## Talks
+
+- **Excuse me, do you have a moment to talk about version control?** — Dept talk, KCL, 2018-04-10. [Slides (HTML)](archive/git-intro-2018/2018-04-10-dept-talk.html) · [Source (Rmd)](archive/git-intro-2018/2018-04-10-dept-talk.Rmd) · [Companion paper (PDF)](archive/git-intro-2018/lets-talk-about-version-control-peerj-preprints-3159.pdf) · [README](archive/git-intro-2018/README.md)
+
+## Workshops
+
+- **NGS Galaxy Workshop — 2019.** [Materials (HTML)](archive/ngs-workshop-2019/files/index.html)
