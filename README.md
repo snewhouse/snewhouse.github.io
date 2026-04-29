@@ -56,21 +56,28 @@ The first push will create the `gh-pages` branch automatically.
 - **Projects:** grid listing with categories.
 - **Archive:** old 2016–2019 homepage, CVs, talks, and the NGS workshop preserved at stable URLs.
 
-## Gaps to fill in
+## Gaps still to fill in
 
-These are placeholders — the build won't fail without them, but you'll want to populate:
+These are still placeholders — the build won't fail without them, but you'll want to populate:
 
 - [ ] **Avatar:** drop a square headshot at `assets/avatar.jpg` and switch `index.qmd` `image:` from `assets/favicon.svg` back to `assets/avatar.jpg`.
 - [ ] **OG image:** add `assets/og-image.png` (1200×630). Referenced by JSON-LD.
-- [ ] **Current role / employer** — `about.qmd` callout-tip block.
-- [ ] **CV experience entries** — `cv.qmd` has a templated block; fill in real roles, dates, impact bullets.
-- [ ] **CV education entries** — `cv.qmd`.
-- [ ] **Selected publications** — `cv.qmd` (or just rely on Scholar link).
-- [ ] **CV PDF** — drop `assets/cv.pdf` to enable the download button on `cv.qmd`.
-- [ ] **Email address** — confirm/adjust `mailto:` on `index.qmd` and `cv.qmd` (currently `stephen.j.newhouse@gmail.com`).
-- [ ] **Google Analytics / Plausible** — `_quarto.yml` `google-analytics:` is empty; add an ID if you want stats.
-- [ ] **Custom domain (optional)** — add a `CNAME` file at the repo root, then configure DNS.
-- [ ] **Google Scholar profile ID** — `NPnNtkMAAAAJ` is a placeholder; confirm and replace in `_quarto.yml`, `index.qmd`, `about.qmd`, `cv.qmd`, `includes/head.html`, `llms.txt`.
+- [ ] **CV PDF:** drop `assets/cv.pdf` to enable the download button on `cv.qmd`.
+- [ ] **Selected publications:** `cv.qmd` currently links out to Scholar / KCL Pure / Impactstory. Add 3–5 hand-picked highlights if you want them surfaced.
+- [ ] **Google Scholar profile ID:** `NPnNtkMAAAAJ` is the standard pattern but I haven't verified the actual ID — open your Scholar profile and replace site-wide if different (`index.qmd`, `about.qmd`, `cv.qmd`, `includes/head.html`, `llms.txt`).
+- [ ] **Google Analytics / Plausible** *(optional)*: `_quarto.yml` `google-analytics:` is empty; add an ID if you want stats.
+- [ ] **Custom domain** *(optional)*: add a `CNAME` file at the repo root, then configure DNS.
+
+### Already filled in from the LinkedIn export
+
+- ✅ Current role: Head of Professional Services & Senior Bioinformatician, Biorelate Ltd.
+- ✅ Location: Manchester, UK
+- ✅ Full work history (Biorelate → Grid Edge → Mindwave → UCL → KCL × 4 roles → 3 postdocs)
+- ✅ Education: PhD QMUL, MSc KCL, BSc Liverpool
+- ✅ Certifications + MHFA Champion
+- ✅ Email: stephen.j.newhouse@gmail.com
+- ✅ KCL Pure profile link
+- ✅ Bio voice / tone lifted from LinkedIn summary
 
 ## Migrating from the old site
 

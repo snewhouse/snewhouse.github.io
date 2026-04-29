@@ -1,8 +1,8 @@
 ---
 title: "Dr Stephen J Newhouse"
-subtitle: "Data Scientist · Bioinformatician · Builder of agentic systems"
-pagetitle: "Stephen J Newhouse — Data Scientist & Bioinformatician"
-description-meta: "Personal site of Dr Stephen J Newhouse: translational genomics, ML for health, and agentic AI."
+subtitle: "Head of Professional Services & Senior Bioinformatician at Biorelate · Bioinformatics, ML, Agentic AI"
+pagetitle: "Stephen J Newhouse — Head of Professional Services, Biorelate | Bioinformatics, ML, Agentic AI"
+description-meta: "Dr Stephen J Newhouse — Head of Professional Services & Senior Bioinformatician at Biorelate. PhD in Genetics. Target/drug/biomarker discovery, knowledge graphs, ML, agentic AI. Manchester, UK."
 about:
   template: trestles
   image: assets/favicon.svg
@@ -20,7 +20,10 @@ about:
     - text: ORCID
       href: https://orcid.org/0000-0002-1843-9842
     - text: Google Scholar
-      href: https://scholar.google.com/citations?user=NPnNtkMAAAAJ
+      href: https://scholar.google.co.uk/citations?user=NPnNtkMAAAAJ
+    - icon: building
+      text: KCL Pure
+      href: https://kclpure.kcl.ac.uk/portal/stephen.newhouse.html
     - icon: envelope
       text: Email
       href: mailto:stephen.j.newhouse@gmail.com
@@ -28,28 +31,28 @@ about:
 
 ## Hi — I'm Stephen.
 
-I'm a **data scientist and bioinformatician** with a PhD and 15+ years building data, ML, and genomics platforms across academia and industry. My work has spanned translational genomics, biomarker discovery, NGS pipelines, and ML for health — and these days I'm increasingly focused on **agentic AI**: memory, tool-use, and reproducible LLM systems.
+I've spent **20+ years** in bioinformatics, genomics, and life-sciences data science — which sounds like a long time until you realise how much the field has changed in just the last five. The questions have stayed the same though: **how do we make sense of complex biomedical data, and how do we turn it into something that actually helps people?**
 
-I care about open science, reproducibility, and turning messy real-world data into things people can actually use.
+At **[Biorelate](https://www.biorelate.com)** I lead Professional Services. In practice that means making sure the science we're doing connects to the problems our clients actually need solving — accelerating a drug-discovery pipeline, untangling a messy real-world data workflow, or helping a team understand what they've got and what they can do with it.
+
+Before this I worked across **academia, the NHS, and pharma** — building and leading teams, shipping ML models, and trying to make large-scale data projects land well in the real world.
+
+Oh, and somewhere along the way I appear to have become an **Agentic Engineer**. Not by design — more by osmosis and a stubborn refusal to fall behind the LLM Joneses. Right now I'm particularly interested in where **knowledge graphs, RAG, and multi-omics data** are heading, and what that means for personalised medicine.
 
 ::: {.callout-note appearance="minimal"}
-**Open to work / collaborations.** Senior IC and tech-lead roles in data science / ML / bioinformatics — UK or remote. Get in touch via [LinkedIn](https://www.linkedin.com/in/sjnewhouse/) or [email](mailto:stephen.j.newhouse@gmail.com).
+**Always happy to connect** with people working at the intersection of data, biology, and drug discovery. → [LinkedIn](https://www.linkedin.com/in/sjnewhouse/) · [Email](mailto:stephen.j.newhouse@gmail.com)
 :::
 
-### What I work on
+### What I'm working on
 
-- **Agentic AI & LLM systems** — memory architectures, retrieval, evaluation. See [`aa-ma-forge`](https://github.com/snewhouse/aa-ma-forge).
-- **Bioinformatics & genomics** — NGS, variant analysis, pipelines, reproducible workflows.
-- **ML for health** — predictive modelling, biomarker discovery, biostatistics.
-- **Open science** — version control, reproducible research, teaching.
+- **Biomedical AI at Biorelate** — knowledge graphs, NLP, target/drug/biomarker discovery, indication expansion.
+- **Agentic AI** — memory, tool-use, evaluation. See [`aa-ma-forge`](https://github.com/snewhouse/aa-ma-forge).
+- **Genomics tooling** — curating [`awesome-genetics-software`](https://github.com/snewhouse/awesome-genetics-software).
+- **Writing & sharing** — see the [blog](posts.qmd) and [archived talks](archive.qmd).
 
-### Recent
+### Quick links
 
-- 🆕 [Blog post: latest →](posts.qmd)
-- 🛠️ [Projects →](projects.qmd)
 - 📄 [CV →](cv.qmd)
-- 🗄️ [Older talks & teaching material](archive.qmd)
-
-### Contact
-
-Best routes: [LinkedIn](https://www.linkedin.com/in/sjnewhouse/) · [GitHub](https://github.com/snewhouse) · [email](mailto:stephen.j.newhouse@gmail.com).
+- 🛠️ [Projects →](projects.qmd)
+- ✍️ [Blog →](posts.qmd)
+- 📚 Publications: [Google Scholar](https://scholar.google.co.uk/citations?user=NPnNtkMAAAAJ) · [tinyurl.com/mujf69xs](https://tinyurl.com/mujf69xs) · [Impactstory](https://profiles.impactstory.org/u/0000-0002-1843-9842)

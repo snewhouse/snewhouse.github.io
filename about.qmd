@@ -1,47 +1,54 @@
 ---
 title: "About"
 pagetitle: "About — Stephen J Newhouse"
-description-meta: "Background, expertise, and current focus of Dr Stephen J Newhouse."
+description-meta: "Background, expertise, and current focus of Dr Stephen J Newhouse — Head of Professional Services & Senior Bioinformatician at Biorelate."
 ---
 
 ## Background
 
-I'm Dr Stephen J Newhouse — BSc (Hons), MSc, PhD. My career has bridged **academic biomedical research** and **applied data science**, with a focus on extracting useful signal from biological and clinical data.
+I'm Dr Stephen J Newhouse — BSc (Hons), MSc, PhD. **20+ years** in bioinformatics, genomics, and life-sciences data science, working across **academia, the NHS, and industry**.
 
-Past affiliations include the **NIHR Biomedical Research Centre for Mental Health at King's College London** and **King's Health Partners Bioinformatics Core**. I've co-authored peer-reviewed work in genomics, neurology, psychiatry, and translational medicine, and contributed to open-source tools and teaching materials used by researchers around the world.
+Currently I'm **Head of Professional Services and Senior Bioinformatician at [Biorelate Ltd.](https://www.biorelate.com)** in Manchester, UK — where I lead the team that turns Biorelate's biomedical AI, knowledge graph, and NLP products into real client outcomes in target / drug / biomarker discovery, indication expansion, and systems biology.
 
-::: {.callout-tip}
-**Current role / affiliation:** _<!-- TODO: Steve — fill in current title and employer here. The site builds without this; just edit `about.qmd`. -->_
-:::
-
-## Expertise
-
-- **Bioinformatics:** NGS analysis, variant calling, RNA-seq, GWAS, multi-omics integration
-- **Data science / ML:** predictive modelling, biomarker discovery, model evaluation, MLOps
-- **Statistics & genetics:** biostatistics, statistical genetics, population genetics
-- **Engineering:** reproducible pipelines (Snakemake / Nextflow), containers, cloud (AWS/GCP/Azure)
-- **Agentic AI:** memory architectures, retrieval, tool-use, LLM evaluation
-- **Open science:** version control, reproducible research, teaching
+Before Biorelate I held roles at **Grid Edge** (Data Scientist), **Mindwave Ventures** (CTO), **UCL** (Honorary Senior Lecturer), and spent eight years at **King's College London** as a Senior Bioinformatician and Data Science Group Lead at the NIHR Biomedical Research Centre for Mental Health, including module-leading the Bioinformatics module of the MSc in Genomic Medicine. Earlier postdoctoral work at the **Institute of Psychiatry, University of Cambridge,** and **Queen Mary University of London**, where I also did my PhD in Genetics.
 
 ## Current focus
 
-- Agentic AI — see [aa-ma-forge](https://github.com/snewhouse/aa-ma-forge): an Advanced Agentic Memory Architecture
-- Genetics & bioinformatics tooling — curating [awesome-genetics-software](https://github.com/snewhouse/awesome-genetics-software)
-- Writing and sharing what I learn — see [blog](posts.qmd)
+- **Biomedical AI & knowledge graphs** — Biorelate's core, applied to target, drug, and biomarker discovery and indication expansion.
+- **Agentic engineering** — LLM systems, RAG, memory, tool-use, evaluation. See [`aa-ma-forge`](https://github.com/snewhouse/aa-ma-forge).
+- **Multi-omics + personalised medicine** — where I think the most interesting signal is right now.
+- **Open source & teaching** — I still enjoy writing things down and giving them away. See [`awesome-genetics-software`](https://github.com/snewhouse/awesome-genetics-software) and the [archive](archive.qmd) of older teaching material.
 
-## Profiles & metrics
+## Expertise
+
+- **Bioinformatics & genomics** — NGS (DNA/RNA), variant analysis, GWAS, RNA-seq, multi-omics, drug repurposing pipelines, Illumina arrays
+- **Data science / ML** — predictive modelling, biomarker discovery, EDA, time-series, model evaluation, MLOps (MLflow, PyCaret, Prophet)
+- **NLP & knowledge graphs** — biomedical text mining, entity/relation extraction, graph-based reasoning
+- **Agentic AI / LLMs** — RAG, agent memory, tool-use, evaluation, MCP
+- **Statistics & genetics** — biostatistics, statistical genetics, applied predictive modelling
+- **Engineering** — Python, R, Bash; Docker; Snakemake / Nextflow; CI/CD; AWS, GCP; Streamlit; Git/GitHub
+- **Leadership & delivery** — building & leading teams, client engagement, training, consulting, Agile delivery
+
+## Profiles & identifiers
 
 | Profile | Link |
 |---|---|
-| GitHub | [snewhouse](https://github.com/snewhouse) |
-| LinkedIn | [sjnewhouse](https://www.linkedin.com/in/sjnewhouse/) |
+| LinkedIn | [in/sjnewhouse](https://www.linkedin.com/in/sjnewhouse/) |
+| GitHub | [snewhouse](https://github.com/snewhouse) · [KHP-Informatics](https://github.com/KHP-Informatics) |
 | Hugging Face | [sjnewhouse](https://huggingface.co/sjnewhouse) |
+| Google Scholar | [profile](https://scholar.google.co.uk/citations?user=NPnNtkMAAAAJ) |
+| KCL Pure | [stephen.newhouse](https://kclpure.kcl.ac.uk/portal/stephen.newhouse.html) |
 | ORCID | [0000-0002-1843-9842](https://orcid.org/0000-0002-1843-9842) |
-| Google Scholar | [profile](https://scholar.google.com/citations?user=NPnNtkMAAAAJ) |
+| Impactstory | [profile](https://profiles.impactstory.org/u/0000-0002-1843-9842) |
 | Scopus Author ID | 8931613700 |
-| ResearcherID | [C-9330-2011](https://publons.com/researcher/C-9330-2011/) |
+| ResearcherID | C-9330-2011 |
+| Publications shortcut | [tinyurl.com/mujf69xs](https://tinyurl.com/mujf69xs) |
 | Twitter / X | [\@s_j_newhouse](https://twitter.com/s_j_newhouse) |
 
 ::: {.callout-note appearance="minimal"}
 **Citation metrics** are kept current by Google Scholar / Scopus rather than hard-coded here, so they don't go stale.
 :::
+
+## Personal
+
+Outside work I'm a dad, a husband, and an MS warrior. I'm a Mental Health First Aid Champion (MHFA England, 2020) and care a lot about open science, mental health in research and tech, and making teams that work for the humans in them.
