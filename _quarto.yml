@@ -16,7 +16,7 @@ project:
 
 website:
   title: "Stephen J Newhouse"
-  description: "Dr Stephen J Newhouse, PhD — Head of Professional Services & Senior Bioinformatician at Biorelate. Target/drug/biomarker discovery, knowledge graphs, NLP, ML, bioinformatics, agentic AI. Manchester, UK."
+  description: "Dr Stephen J Newhouse, PhD. Head of Professional Services & Senior Bioinformatician at Biorelate. Target, drug, and biomarker discovery, knowledge graphs, NLP, ML, bioinformatics, agentic AI. Manchester, UK."
   site-url: "https://snewhouse.github.io"
   repo-url: "https://github.com/snewhouse/snewhouse.github.io"
   repo-actions: [edit, source, issue]
@@ -72,8 +72,12 @@ website:
 format:
   html:
     theme:
-      light: [cosmo, styles.scss]
-      dark: [darkly, styles.scss]
+      light: [litera, styles.scss]
+      dark: [solar, styles.scss]
+    grid:
+      body-width: 1100px
+      sidebar-width: 220px
+      margin-width: 220px
     css: styles.css
     toc: true
     code-copy: true

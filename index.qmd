@@ -1,13 +1,13 @@
 ---
 title: "Dr Stephen J Newhouse"
-subtitle: "Head of Professional Services & Senior Bioinformatician at Biorelate · Bioinformatics, ML, Agentic AI"
-pagetitle: "Stephen J Newhouse — Head of Professional Services, Biorelate | Bioinformatics, ML, Agentic AI"
-description-meta: "Dr Stephen J Newhouse — Head of Professional Services & Senior Bioinformatician at Biorelate. PhD in Genetics. Target/drug/biomarker discovery, knowledge graphs, ML, agentic AI. Manchester, UK."
+subtitle: "Head of Professional Services & Senior Bioinformatician at Biorelate. Bioinformatics, ML, agentic AI."
+pagetitle: "Stephen J Newhouse. Head of Professional Services, Biorelate. Bioinformatics, ML, agentic AI."
+description-meta: "Dr Stephen J Newhouse. Head of Professional Services & Senior Bioinformatician at Biorelate. PhD in Genetics. Target, drug, and biomarker discovery, knowledge graphs, ML, agentic AI. Manchester, UK."
 about:
   template: trestles
-  image: assets/favicon.svg
+  image: assets/avatar.svg
   image-shape: round
-  image-width: 14em
+  image-width: 18em
   links:
     - icon: linkedin
       text: LinkedIn
@@ -29,15 +29,15 @@ about:
       href: mailto:stephen.j.newhouse@gmail.com
 ---
 
-## Hi — I'm Stephen.
+## Hi, I'm Stephen.
 
-I've spent **20+ years** in bioinformatics, genomics, and life-sciences data science — which sounds like a long time until you realise how much the field has changed in just the last five. The questions have stayed the same though: **how do we make sense of complex biomedical data, and how do we turn it into something that actually helps people?**
+I've spent **20+ years** in bioinformatics, genomics, and life-sciences data science. That sounds like a long time until you remember how much the field has changed in just the last five. The questions stay the same though: **how do we make sense of complex biomedical data, and how do we turn it into something that actually helps people?**
 
-At **[Biorelate](https://www.biorelate.com)** I lead Professional Services. In practice that means making sure the science we're doing connects to the problems our clients actually need solving — accelerating a drug-discovery pipeline, untangling a messy real-world data workflow, or helping a team understand what they've got and what they can do with it.
+At **[Biorelate](https://www.biorelate.com)** I lead Professional Services. In practice that means making sure the science we're doing connects to what our clients actually need: accelerating a drug-discovery pipeline, untangling a messy real-world data workflow, or helping a team understand what they've got and what they can do with it.
 
-Before this I worked across **academia, the NHS, and pharma** — building and leading teams, shipping ML models, and trying to make large-scale data projects land well in the real world.
+Before this I worked across **academia, the NHS, and pharma**, building and leading teams, shipping ML models, and trying to make large-scale data projects land well in the real world.
 
-Oh, and somewhere along the way I appear to have become an **Agentic Engineer**. Not by design — more by osmosis and a stubborn refusal to fall behind the LLM Joneses. Right now I'm particularly interested in where **knowledge graphs, RAG, and multi-omics data** are heading, and what that means for personalised medicine.
+Somewhere along the way I appear to have become an **Agentic Engineer**. Not by design, more by osmosis and a stubborn refusal to fall behind the LLM Joneses. Right now I'm particularly interested in where **knowledge graphs, RAG, and multi-omics data** are heading, and what that means for personalised medicine.
 
 ::: {.callout-note appearance="minimal"}
 **Always happy to connect** with people working at the intersection of data, biology, and drug discovery. → [LinkedIn](https://www.linkedin.com/in/sjnewhouse/) · [Email](mailto:stephen.j.newhouse@gmail.com)
@@ -45,10 +45,10 @@ Oh, and somewhere along the way I appear to have become an **Agentic Engineer**.
 
 ### What I'm working on
 
-- **Biomedical AI at Biorelate** — knowledge graphs, NLP, target/drug/biomarker discovery, indication expansion.
-- **Agentic AI** — memory, tool-use, evaluation. See [`aa-ma-forge`](https://github.com/snewhouse/aa-ma-forge).
-- **Genomics tooling** — curating [`awesome-genetics-software`](https://github.com/snewhouse/awesome-genetics-software).
-- **Writing & sharing** — see the [blog](posts.qmd) and [archived talks](archive.qmd).
+- **Biomedical AI at Biorelate**. Knowledge graphs, NLP, target, drug, and biomarker discovery, indication expansion.
+- **Agentic AI**. Memory, tool-use, evaluation. See [`aa-ma-forge`](https://github.com/snewhouse/aa-ma-forge).
+- **Genomics tooling**. Curating [`awesome-genetics-software`](https://github.com/snewhouse/awesome-genetics-software).
+- **Writing & sharing**. See the [blog](posts.qmd) and [archived talks](archive.qmd).
 
 ### Quick links
 

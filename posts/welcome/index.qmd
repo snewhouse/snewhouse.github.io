@@ -1,16 +1,16 @@
 ---
-title: "Welcome — site relaunch"
+title: "Welcome. Site relaunch."
 description: "After a long pause, the site is back. Here's what's new and what's coming."
 date: 2026-04-29
 categories: [meta]
 ---
 
-After several years untouched, this site is back online — rebuilt with [Quarto](https://quarto.org), tidied up, and pointed firmly at where I'm spending my time now: **agentic AI** alongside the bioinformatics and ML for health work.
+After several years untouched, this site is back online: rebuilt with [Quarto](https://quarto.org), tidied up, and pointed firmly at where I'm spending my time now: **agentic AI** alongside the bioinformatics and ML for health work.
 
 A few practical notes:
 
-- The old 2018-era homepage, CVs, and workshop materials are preserved under [`/archive/`](../../archive.qmd) — links you may have shared still work.
+- The old 2018-era homepage, CVs, and workshop materials are preserved under [`/archive/`](../../archive.qmd). Links you may have shared still work.
 - The [Projects](../../projects.qmd) page is where new work will land.
-- This is the first post on the new [Blog](../../posts.qmd). Expect short, technical notes — what I've learned, broken, and fixed.
+- This is the first post on the new [Blog](../../posts.qmd). Expect short, technical notes on what I've learned, broken, and fixed.
 
 If you'd like to chat about work, collaboration, or just say hi, [LinkedIn](https://www.linkedin.com/in/sjnewhouse/) is the fastest way to reach me.

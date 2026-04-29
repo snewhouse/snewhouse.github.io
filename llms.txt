@@ -1,6 +1,6 @@
 # Stephen J Newhouse
 
-> Personal site of Dr Stephen J Newhouse, PhD — Head of Professional Services & Senior Bioinformatician at Biorelate Ltd. (Manchester, UK). 20+ years across academia, NHS, and industry in bioinformatics, genomics, ML, and life-sciences data science. Currently focused on knowledge graphs, NLP, RAG, multi-omics, and agentic AI for target / drug / biomarker discovery and personalised medicine.
+> Personal site of Dr Stephen J Newhouse, PhD. Head of Professional Services & Senior Bioinformatician at Biorelate Ltd. (Manchester, UK). 20+ years across academia, NHS, and industry in bioinformatics, genomics, ML, and life-sciences data science. Currently focused on knowledge graphs, NLP, RAG, multi-omics, and agentic AI for target, drug, and biomarker discovery, and personalised medicine.
 
 ## About
 
@@ -17,7 +17,7 @@
 
 - 2021-06 → present  Head of Professional Services & Senior Bioinformatician, Biorelate Ltd. (Manchester, UK). £1M+/yr revenue contribution; built and led the Professional Services team.
 - 2021-01 → 2021-06  Data Scientist, Grid Edge (UK). Built EDA + ML web app (Streamlit, PyCaret, Prophet, MLflow, Docker) for multivariate time-series.
-- 2019-08 → 2020-02  Chief Technology Officer, Mindwave Ventures (London, UK).
+- 2019-08 → 2020-02  Chief Technology Officer (interim, head-hunted), Mindwave Ventures, now Claryon Systems (London, UK; UK & India teams). NHS-focused digital health; led containerisation, Docker security, and a UK/India distributed engineering team.
 - 2017-12 → 2019-08  Honorary Senior Lecturer, UCL (London, UK).
 - 2015-11 → 2019-08  Bioinformatics Module Lead, Genomic Medicine MSc, KCL & SGUL.
 - 2015-11 → 2019-08  Data Science Group Lead, Dept of Biostatistics & Health Informatics, King's College London.
@@ -29,13 +29,13 @@
 
 ## Education
 
-- PhD, Genetics — Queen Mary University of London (2001–2006)
-- MSc, Forensic Science and Technology — King's College London (1999–2000)
-- BSc (Hons), Molecular Biology — University of Liverpool (1996–1999)
+- PhD, Genetics. Queen Mary University of London (2001–2006).
+- MSc, Forensic Science and Technology. King's College London (1999–2000).
+- BSc (Hons), Molecular Biology. University of Liverpool (1996–1999).
 
 ## Certifications
 
-- Mental Health First Aid Champion — MHFA England (2020)
+- Mental Health First Aid Champion : MHFA England (2020)
 - GDPR Foundations
 - Intro to Python for Data Science
 - Introduction to R
@@ -64,18 +64,18 @@
 
 ## Site map
 
-- /              — homepage and short bio
-- /about         — extended bio, expertise, profiles
-- /cv            — curriculum vitae
-- /projects      — featured projects and open-source work
-- /posts         — blog (notes on data science, bioinformatics, agentic AI)
-- /archive       — historical materials (2016–2019 CV, talks, workshops)
+- /              : homepage and short bio
+- /about         : extended bio, expertise, profiles
+- /cv            : curriculum vitae
+- /projects      : featured projects and open-source work
+- /posts         : blog (notes on data science, bioinformatics, agentic AI)
+- /archive       : historical materials (2016–2019 CV, talks, workshops)
 
 ## Featured projects
 
-- aa-ma-forge — Advanced Agentic Memory Architecture for LLM agents. https://github.com/snewhouse/aa-ma-forge
-- awesome-genetics-software — curated list of genetic analysis tools. https://github.com/snewhouse/awesome-genetics-software
-- Genomic-Medicine-MSc-Bioinformatics — KCL teaching materials. https://github.com/snewhouse/Genomic-Medicine-MSc-Bioinformatics
+- aa-ma-forge : Advanced Agentic Memory Architecture for LLM agents. https://github.com/snewhouse/aa-ma-forge
+- awesome-genetics-software : curated list of genetic analysis tools. https://github.com/snewhouse/awesome-genetics-software
+- Genomic-Medicine-MSc-Bioinformatics : KCL teaching materials. https://github.com/snewhouse/Genomic-Medicine-MSc-Bioinformatics
 
 ## Contact
 
