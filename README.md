@@ -50,7 +50,7 @@ The first push will create the `gh-pages` branch automatically.
 ## What's in the box
 
 - **SEO:** meta description/keywords, canonical URL, Open Graph, Twitter Card, sitemap (auto by Quarto), robots.txt.
-- **Agent / LLM optimisation:** JSON-LD `Person` and `WebSite` schemas (`includes/head.html`), `rel=me` links to GitHub/LinkedIn/ORCID, plain-text `llms.txt` summary at the site root.
+- **Agent / LLM optimisation:** JSON-LD `Person` and `WebSite` schemas (`includes/head.html`), `rel=me` profile links (see `includes/head.html` for the current list), plain-text `llms.txt` summary at the site root.
 - **Recruiter-friendly:** clear CV page, prominent LinkedIn link, Open-to-Work callout, contact email.
 - **Blog:** Quarto listing with RSS feed.
 - **Projects:** grid listing with categories.
