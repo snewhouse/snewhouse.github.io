@@ -70,7 +70,7 @@ These are still placeholders — the build won't fail without them, but you'll w
 
 ### Already filled in from the LinkedIn export
 
-- ✅ Current role: Head of Professional Services & Senior Bioinformatician, Biorelate Ltd.
+- ✅ Current role: independent consulting and advisory (since June 2026); Biorelate as a past role
 - ✅ Location: Manchester, UK
 - ✅ Full work history (Biorelate → Grid Edge → Mindwave → UCL → KCL × 4 roles → 3 postdocs)
 - ✅ Education: PhD QMUL, MSc KCL, BSc Liverpool

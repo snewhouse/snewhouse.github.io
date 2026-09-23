@@ -1,23 +1,24 @@
 ---
 title: "About"
 pagetitle: "About. Stephen J Newhouse"
-description-meta: "Background, expertise, and current focus of Dr Stephen J Newhouse. Head of Professional Services & Senior Bioinformatician at Biorelate."
+description-meta: "Background, expertise, and current focus of Dr Stephen J Newhouse. Applied AI and data science leader, bioinformatician and agentic AI engineer."
 ---
 
 ## Background
 
 I'm Dr Stephen J Newhouse: BSc (Hons), MSc, PhD. **20+ years** in bioinformatics, genomics, and life-sciences data science, working across **academia, the NHS, and industry**.
 
-I'm currently **Head of Professional Services and Senior Bioinformatician at [Biorelate Ltd.](https://www.biorelate.com)** in Manchester, UK. I lead the team that turns Biorelate's biomedical AI, knowledge graph, and NLP products into real client outcomes in target, drug, and biomarker discovery, indication expansion, and systems biology.
+Since June 2026 I've worked as an independent consultant and adviser in applied AI, data science and bioinformatics.
+
+From 2021 to 2026 I was **Head of Professional Services and Senior Bioinformatician at Biorelate Ltd.**, a UK biomedical AI company, where I built and led the function that turned biomedical AI, knowledge graph, and NLP products into client outcomes in target, drug, and biomarker discovery, indication expansion, and systems biology.
 
 Before Biorelate I held roles at **Grid Edge** (Data Scientist), **Mindwave Ventures** (CTO), and **UCL** (Honorary Senior Lecturer). I spent eight years at **King's College London** as a Senior Bioinformatician and Data Science Group Lead at the NIHR Biomedical Research Centre for Mental Health, including module-leading the Bioinformatics module of the MSc in Genomic Medicine. Earlier postdoctoral work at the **Institute of Psychiatry**, **University of Cambridge**, and **Queen Mary University of London**, where I also did my PhD in Genetics.
 
 ## Current focus
 
-- **Lead engineer on Biorelate's Professional Services internal biomedical AI agent tooling**. Agent orchestration, memory, evaluation, biomedical tool-use over a curated knowledge graph. Built for the PS delivery team and now integrated into large-pharma clients' own internal LLM and tech stacks.
-- **Target safety assessment apps for life-sciences pharma clients**. Knowledge graph + LLM evidence retrieval, programmatic citation, regulator-ready outputs.
-- **managed-AI platform integration**. Evaluating and integrating the managed-AI platform as a managed-AI platform alongside Biorelate's own stack.
-- **Biomedical AI & knowledge graphs more broadly**. Biorelate's core, applied to target, drug, and biomarker discovery and indication expansion.
+- **Agentic AI over biomedical knowledge graphs**. Agent orchestration, memory, evaluation, biomedical tool-use, with provenance and programmatic citation on every claim.
+- **Evidence and safety assessment**. Knowledge graph + LLM evidence retrieval, citation-traced outputs.
+- **Biomedical AI & knowledge graphs more broadly**. Target, drug, and biomarker discovery and indication expansion.
 - **Agentic engineering**. LLM systems, RAG, memory, tool-use, evaluation. See [`aa-ma-forge`](https://github.com/snewhouse/aa-ma-forge).
 - **Multi-omics + personalised medicine**. Where I think the most interesting signal is right now.
 - **Open source & teaching**. I still enjoy writing things down and giving them away. See [`awesome-genetics-software`](https://github.com/snewhouse/awesome-genetics-software) and the [archive](archive.qmd) of older teaching material.

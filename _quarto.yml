@@ -16,7 +16,7 @@ project:
 
 website:
   title: "Stephen J Newhouse"
-  description: "Dr Stephen J Newhouse, PhD. Head of Professional Services & Senior Bioinformatician at Biorelate. Target, drug, and biomarker discovery, knowledge graphs, NLP, ML, bioinformatics, agentic AI. Manchester, UK."
+  description: "Dr Stephen J Newhouse, PhD. Applied AI and data science leader, bioinformatician and agentic AI engineer. Target, drug, and biomarker discovery, knowledge graphs, NLP, ML, bioinformatics, agentic AI. UK."
   site-url: "https://snewhouse.github.io"
   repo-url: "https://github.com/snewhouse/snewhouse.github.io"
   repo-actions: [edit, source, issue]

@@ -1,8 +1,8 @@
 ---
 title: "Dr Stephen J Newhouse"
-subtitle: "Head of Professional Services & Senior Bioinformatician at Biorelate. Bioinformatics, ML, agentic AI."
-pagetitle: "Stephen J Newhouse. Head of Professional Services, Biorelate. Bioinformatics, ML, agentic AI."
-description-meta: "Dr Stephen J Newhouse. Head of Professional Services & Senior Bioinformatician at Biorelate. PhD in Genetics. Target, drug, and biomarker discovery, knowledge graphs, ML, agentic AI. Manchester, UK."
+subtitle: "Applied AI and data science. Bioinformatics, knowledge graphs, agentic AI."
+pagetitle: "Stephen J Newhouse. Applied AI, bioinformatics, agentic AI."
+description-meta: "Dr Stephen J Newhouse. Applied AI and data science leader. PhD in Genetics. Target, drug, and biomarker discovery, knowledge graphs, ML, agentic AI. Manchester, UK."
 about:
   template: trestles
   image: assets/avatar.svg
@@ -31,7 +31,7 @@ about:
 
 I've spent **20+ years** in bioinformatics, genomics, and life-sciences data science. That sounds like a long time until you remember how much the field has changed in just the last five. The questions stay the same though: **how do we make sense of complex biomedical data, and how do we turn it into something that actually helps people?**
 
-At **[Biorelate](https://www.biorelate.com)** I lead Professional Services. In practice that means making sure the science we're doing connects to what our clients actually need: accelerating a drug-discovery pipeline, untangling a messy real-world data workflow, or helping a team understand what they've got and what they can do with it.
+For five years I led Professional Services at **Biorelate**, a UK biomedical AI company. In practice that meant making sure the science connected to what clients actually needed: accelerating a drug-discovery pipeline, untangling a messy real-world data workflow, or helping a team understand what they'd got and what they could do with it. Since June 2026 I've been working as an independent consultant and adviser.
 
 Before this I worked across **academia, the NHS, and pharma**, building and leading teams, shipping ML models, and trying to make large-scale data projects land well in the real world.
 
@@ -43,14 +43,13 @@ Somewhere along the way I appear to have become an **Agentic Engineer**. Not by 
 
 ### Recent outcomes
 
-- Helped secure **new client contracts** for Biorelate this year.
-- Lead engineer on **Biorelate's Professional Services internal biomedical AI agent tooling** (memory, tool-use, evaluation, biomedical knowledge-graph reasoning). Built for our delivery team; now integrated into large-pharma clients' own internal LLM and tech stacks.
-- Delivered a **target safety assessment app** for a life-sciences pharma client. Knowledge graph + LLM evidence retrieval, programmatic citation, regulator-ready outputs.
-- Designed and ran a **managed-AI platform integration** evaluation for Biorelate: managed-AI platform integration, test harnesses, integration patterns.
+- Sole engineer on a production **agent SDK and MCP server** over a biomedical knowledge graph (memory, tool-use, evaluation, knowledge-graph reasoning), integrated by a top-10 global pharma into one of their internal agentic AI platforms.
+- Sole architect of a **multi-agent target safety assessment system**: knowledge graph + LLM evidence retrieval, programmatic citation, citation-traced reports in hours rather than weeks.
+- Built and ran a **Professional Services and consulting function** from zero.
 
 ### What I'm working on
 
-- **Biomedical AI at Biorelate**. Knowledge graphs, NLP, target, drug, and biomarker discovery, indication expansion.
+- **Biomedical AI**. Knowledge graphs, NLP, target, drug, and biomarker discovery, indication expansion.
 - **Agentic AI**. Memory, tool-use, evaluation. See [`aa-ma-forge`](https://github.com/snewhouse/aa-ma-forge).
 - **Genomics tooling**. Curating [`awesome-genetics-software`](https://github.com/snewhouse/awesome-genetics-software).
 - **Writing & sharing**. See the [blog](posts.qmd) and [archived talks](archive.qmd).

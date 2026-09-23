@@ -1,7 +1,7 @@
 ---
 title: "CV. Stephen J Newhouse"
 pagetitle: "CV. Dr Stephen J Newhouse, PhD. Bioinformatics, ML, agentic AI."
-description-meta: "CV / resume of Dr Stephen J Newhouse, PhD. Head of Professional Services & Senior Bioinformatician at Biorelate. Target, drug, and biomarker discovery, knowledge graphs, ML, bioinformatics."
+description-meta: "CV / resume of Dr Stephen J Newhouse, PhD. Applied AI and data science leader, bioinformatician and agentic AI engineer. Target, drug, and biomarker discovery, knowledge graphs, ML, bioinformatics."
 toc: true
 toc-depth: 2
 ---
@@ -12,7 +12,7 @@ toc-depth: 2
 
 ## Headline
 
-**Dr Stephen J Newhouse, PhD.** Head of Professional Services & Senior Bioinformatician at **[Biorelate Ltd.](https://www.biorelate.com)**
+**Dr Stephen J Newhouse, PhD.** Applied AI and data science leader, bioinformatician and agentic AI engineer.
 
 20+ years across **academia, NHS, and industry**: bioinformatics, ML, target, drug, and biomarker discovery, knowledge graphs, agentic AI.
 
@@ -39,27 +39,23 @@ toc-depth: 2
 
 ## Experience
 
-### Head of Professional Services & Senior Bioinformatician · [Biorelate Ltd.](https://www.biorelate.com)
-**June 2021 – present** · United Kingdom (Manchester)
+### Independent consulting and advisory
+**June 2026 – present** · United Kingdom · Remote
 
-- Built and lead the Professional Services team at Biorelate. I set the strategy, hire the team, and own client outcomes.
-- Run client onboarding, training, and product trials. Make sure people actually use what we ship and get real value out of it.
-- Lead bespoke consultancy engagements, applying Biorelate's NLP, knowledge graph, and biomedical AI stack to whatever the client's actual problem is.
-- Help close deals. I work alongside Sales and Business Development on technical scoping, demos, and discovery.
-- Sit between Product and clients. The PS team is one of Product's loudest internal voices on what's working and what isn't.
+- Applied AI, data science and bioinformatics, focused on work that has to hold up in regulated settings: governance, provenance and evidence you can defend.
 
-**Selected client and product work**
+### Head of Professional Services & Senior Bioinformatician · Biorelate Ltd.
+**June 2021 – June 2026** · United Kingdom · Remote
 
-- Lead engineer on **Biorelate's Professional Services internal biomedical AI agent tooling**: agent orchestration, memory, evaluation, and biomedical tool-use over a curated knowledge graph. Built first for the PS team to deliver client work faster and more reproducibly, with full provenance and programmatic citation. Now integrated into large-pharma clients' own internal LLM and tech stacks, so they get agentic biomedical reasoning natively where their data already lives.
-- Led delivery of a **target safety assessment app for a life-sciences pharma client**. Knowledge-graph and LLM-driven evidence retrieval, programmatic citation, regulator-ready outputs.
-- Designed and ran a **managed-AI platform integration** evaluation for Biorelate: scoping, validation, and integration patterns for using the managed-AI platform as a managed-AI platform alongside our own stack.
+- Built and ran the Professional Services and Consulting function from zero: strategy, hiring, engineering standards, and client outcomes from scoping through delivery.
+- Ran client onboarding, training, and product trials, and bespoke consultancy engagements for pharma and biotech clients.
+- Worked alongside Sales and Business Development on technical scoping, demos, and discovery, and sat between Product and clients.
 
-**Selected achievements**
+**Selected work**
 
-- Built the Professional Services function from zero. Consistent client satisfaction and renewals to date.
-- Helped secure **new client contracts** through technical scoping, demos, and discovery alongside Sales and Business Development.
-- Contributed to **annual sales growth**.
-- Built strong working relationships across Sales, Business Development, Marketing, Product, and Data Science.
+- Sole engineer on a production **agent SDK and MCP server** over a curated biomedical knowledge graph: agent orchestration, memory, evaluation, and tool-use, with full provenance and programmatic citation. Integrated by a top-10 global pharma into one of their internal agentic AI platforms.
+- Sole architect of a **multi-agent target safety assessment system**: knowledge-graph and LLM-driven evidence retrieval, programmatic citation, citation-traced reports in hours rather than weeks.
+- Designed the structured evaluation programme that converted trials into paying customers.
 
 ### Data Scientist · Grid Edge
 **January 2021 – June 2021** · United Kingdom
