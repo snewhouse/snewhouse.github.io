@@ -1,0 +1,15 @@
+[
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/aa-ma-forge.html",
+      "/projects/awesome-genetics-software.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/welcome/index.html"
+    ]
+  }
+]

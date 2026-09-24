@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Stephen J Newhouse. Blog</title>
+<link>https://snewhouse.github.io/posts.html</link>
+<atom:link href="https://snewhouse.github.io/posts.xml" rel="self" type="application/rss+xml"/>
+<description>Notes on data science, bioinformatics, and agentic AI.</description>
+<generator>quarto-1.5.57</generator>
+<lastBuildDate>Wed, 29 Apr 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Welcome. Site relaunch.</title>
+  <dc:creator>Stephen J Newhouse</dc:creator>
+  <link>https://snewhouse.github.io/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>After several years untouched, this site is back online: rebuilt with <a href="https://quarto.org">Quarto</a>, tidied up, and pointed firmly at where I’m spending my time now: <strong>agentic AI</strong> alongside the bioinformatics and ML for health work.</p>
+<p>A few practical notes:</p>
+<ul>
+<li>The old 2018-era homepage, CVs, and workshop materials are preserved under <a href="../../archive.html"><code>/archive/</code></a>. Links you may have shared still work.</li>
+<li>The <a href="../../projects.html">Projects</a> page is where new work will land.</li>
+<li>This is the first post on the new <a href="../../posts.html">Blog</a>. Expect short, technical notes on what I’ve learned, broken, and fixed.</li>
+</ul>
+<p>If you’d like to chat about work, collaboration, or just say hi, <a href="https://www.linkedin.com/in/sjnewhouse/">LinkedIn</a> is the fastest way to reach me.</p>
+
+
+<!-- -->
+
+
+ ]]></description>
+  <category>meta</category>
+  <guid>https://snewhouse.github.io/posts/welcome/</guid>
+  <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

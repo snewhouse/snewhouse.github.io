@@ -1,0 +1,4 @@
+/* Small overrides on top of the cosmo/darkly theme. */
+.navbar-brand-container .navbar-title { font-weight: 600; }
+.quarto-listing-default .quarto-post .body h3 { margin-top: 0; }
+.about-contents h2 { border: none; }

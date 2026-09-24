@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Stephen J Newhouse SJN monogram">
+  <title>Stephen J Newhouse</title>
+  <desc>SJN monogram, light and dark themed.</desc>
+  <style><![CDATA[
+    .bg   { fill: #ffffff; }
+    .ring { fill: none; stroke: #2a5d84; stroke-width: 1.5; }
+    .text {
+      fill: #2a5d84;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Inter", "Helvetica Neue", Arial, sans-serif;
+      font-weight: 700;
+      font-size: 78px;
+      letter-spacing: -2px;
+      text-anchor: middle;
+      dominant-baseline: central;
+    }
+    @media (prefers-color-scheme: dark) {
+      .bg   { fill: #002b36; }
+      .ring { stroke: #93a1a1; }
+      .text { fill: #eee8d5; }
+    }
+  ]]></style>
+  <circle class="bg"   cx="128" cy="128" r="124" />
+  <circle class="ring" cx="128" cy="128" r="124" />
+  <text class="text" x="128" y="132">SJN</text>
+</svg>
