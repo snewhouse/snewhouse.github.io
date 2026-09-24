@@ -14,6 +14,27 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # Local hooks can be bypassed (web edits, --no-verify), so re-check here.
+      - name: Commit hygiene check
+        env:
+          BEFORE: ${{ github.event.before }}
+        run: |
+          set -eu
+          want="stephen.j.newhouse@gmail.com"
+          if git cat-file -e "${BEFORE}^{commit}" 2>/dev/null; then range="$BEFORE..$GITHUB_SHA"; else range="$GITHUB_SHA"; fi
+          fail=0
+          for c in $(git rev-list "$range"); do
+            ae=$(git log -1 --format=%ae "$c"); ce=$(git log -1 --format=%ce "$c")
+            [ "$ae" = "$want" ] || { echo "::error::$c author $ae"; fail=1; }
+            case "$ce" in "$want"|noreply@github.com) ;; *) echo "::error::$c committer $ce"; fail=1 ;; esac
+            if git log -1 --format=%B "$c" | grep -qiE 'co-authored-by[[:space:]]*:|claude-session[[:space:]]*:|noreply@anthropic\.com|generated with.*claude|^[[:space:]]*\[(aa-ma plan|ad-hoc)\]'; then
+              echo "::error::$c message has an attribution trailer or internal footer"; fail=1
+            fi
+          done
+          exit $fail
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
