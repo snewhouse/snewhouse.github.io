@@ -8,7 +8,7 @@ description-meta: "Background, expertise, and current focus of Dr Stephen J Newh
 
 I'm Dr Stephen J Newhouse: BSc (Hons), MSc, PhD. **20+ years** in bioinformatics, genomics, and life-sciences data science, working across **academia, the NHS, and industry**.
 
-Since June 2026 I've worked as an independent consultant and adviser in applied AI, data science and bioinformatics.
+Since June 2026 I've worked as an independent consultant and adviser in applied AI, data science and bioinformatics, through my own company, **Carmen Provenance LTD**.
 
 From 2021 to 2026 I was **Head of Professional Services and Senior Bioinformatician at Biorelate Ltd.**, a UK biomedical AI company, where I built and led the function that turned biomedical AI, knowledge graph, and NLP products into client outcomes in target, drug, and biomarker discovery, indication expansion, and systems biology.
 
@@ -40,7 +40,7 @@ Before Biorelate I held roles at **Grid Edge** (Data Scientist), **Mindwave Vent
 | LinkedIn | [in/sjnewhouse](https://www.linkedin.com/in/sjnewhouse/) |
 | GitHub | [snewhouse](https://github.com/snewhouse) · [KHP-Informatics](https://github.com/KHP-Informatics) |
 | Google Scholar | [profile](https://scholar.google.co.uk/citations?user=t3faIVoAAAAJ) |
-| KCL Pure | [stephen.newhouse](https://kclpure.kcl.ac.uk/portal/stephen.newhouse.html) |
+| KCL Pure | [stephen.newhouse](https://kclpure.kcl.ac.uk/portal/en/persons/stephen-newhouse/) |
 | ORCID | [0000-0002-1843-9842](https://orcid.org/0000-0002-1843-9842) |
 | Impactstory | [profile](https://profiles.impactstory.org/u/0000-0002-1843-9842) |
 | Scopus Author ID | 8931613700 |

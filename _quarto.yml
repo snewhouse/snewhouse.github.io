@@ -16,7 +16,7 @@ project:
 
 website:
   title: "Stephen J Newhouse"
-  description: "Dr Stephen J Newhouse, PhD. Applied AI and data science leader, bioinformatician and agentic AI engineer. Target, drug, and biomarker discovery, knowledge graphs, NLP, ML, bioinformatics, agentic AI. UK."
+  description: "Dr Stephen J Newhouse, PhD. Independent applied AI and data science consultant (Carmen Provenance LTD), bioinformatician and agentic AI engineer. Target, drug, and biomarker discovery, knowledge graphs, NLP, ML, bioinformatics, agentic AI. Wirral, UK."
   site-url: "https://snewhouse.github.io"
   repo-url: "https://github.com/snewhouse/snewhouse.github.io"
   repo-actions: [edit, source, issue]

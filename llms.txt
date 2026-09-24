@@ -6,17 +6,18 @@
 
 - Name: Stephen J Newhouse (Dr, PhD)
 - Aliases: sjnewhouse, s_j_newhouse, Steve Newhouse
-- Current role: Independent consultant and adviser, applied AI, data science and bioinformatics (since June 2026)
-- Location: Manchester, England, United Kingdom
+- Current role: Independent consultant and adviser, applied AI, data science and bioinformatics, through Carmen Provenance LTD (since June 2026)
+- Location: Wirral, UK
 - Languages: English (native)
 - Areas of expertise: bioinformatics, genomics, NGS, multi-omics, machine learning, NLP, knowledge graphs, RAG, agentic AI, LLM systems, biostatistics, drug discovery, biomarker discovery, target discovery, indication expansion, systems biology, predictive modelling, time-series, biomedical text mining, open science, reproducible research, Agile delivery, data management
 - Top skills (LinkedIn): Agile Methodologies, Data Management, Natural Language Processing (NLP)
 
 ## Career timeline
 
-- 2026-06 → present  Independent consulting and advisory (UK, remote). Applied AI, data science and bioinformatics.
+- 2026-06 → present  Independent consulting and advisory, Carmen Provenance LTD (UK, remote). Applied AI, data science and bioinformatics.
 - 2021-06 → 2026-06  Head of Professional Services & Senior Bioinformatician, Biorelate Ltd. (UK). Built and ran the Professional Services and Consulting function from zero. Sole engineer on a production agent SDK and MCP server over a curated biomedical knowledge graph, integrated by a top-10 global pharma into one of their internal agentic AI platforms. Sole architect of a multi-agent target safety assessment system with citation-traced outputs.
 - 2021-01 → 2021-06  Data Scientist, Grid Edge (UK). Built EDA + ML web app (Streamlit, PyCaret, Prophet, MLflow, Docker) for multivariate time-series.
+- 2020-02 → 2021-01  Career break: family relocation from London to the Wirral.
 - 2019-08 → 2020-02  Chief Technology Officer (interim, head-hunted), Mindwave Ventures, now Claryon Systems (London, UK; UK & India teams). NHS-focused digital health; led containerisation, Docker security, and a UK/India distributed engineering team.
 - 2017-12 → 2019-08  Honorary Senior Lecturer, UCL (London, UK).
 - 2015-11 → 2019-08  Bioinformatics Module Lead, Genomic Medicine MSc, KCL & SGUL.
@@ -55,7 +56,7 @@
 - GitHub: https://github.com/snewhouse
 - GitHub (org, past): https://github.com/KHP-Informatics
 - Google Scholar: https://scholar.google.co.uk/citations?user=t3faIVoAAAAJ
-- KCL Pure: https://kclpure.kcl.ac.uk/portal/stephen.newhouse.html
+- KCL Pure: https://kclpure.kcl.ac.uk/portal/en/persons/stephen-newhouse/
 - ORCID: https://orcid.org/0000-0002-1843-9842
 - Impactstory: https://profiles.impactstory.org/u/0000-0002-1843-9842
 - Publications shortcut: https://tinyurl.com/mujf69xs
@@ -74,7 +75,7 @@
 
 - aa-ma-forge : Advanced Agentic Memory Architecture for LLM agents. https://github.com/snewhouse/aa-ma-forge
 - awesome-genetics-software : curated list of genetic analysis tools. https://github.com/snewhouse/awesome-genetics-software
-- Genomic-Medicine-MSc-Bioinformatics : KCL teaching materials. https://github.com/snewhouse/Genomic-Medicine-MSc-Bioinformatics
+- genmed-msc-2018 : KCL Genomic Medicine MSc teaching materials. https://github.com/snewhouse/genmed-msc-2018
 
 ## Contact
 

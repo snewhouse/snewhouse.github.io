@@ -2,7 +2,7 @@
 title: "Dr Stephen J Newhouse"
 subtitle: "Applied AI and data science. Bioinformatics, knowledge graphs, agentic AI."
 pagetitle: "Stephen J Newhouse. Applied AI, bioinformatics, agentic AI."
-description-meta: "Dr Stephen J Newhouse. Applied AI and data science leader. PhD in Genetics. Target, drug, and biomarker discovery, knowledge graphs, ML, agentic AI. Manchester, UK."
+description-meta: "Dr Stephen J Newhouse, PhD. Independent applied AI and data science consultant (Carmen Provenance LTD), bioinformatician and agentic AI engineer. Target, drug, and biomarker discovery, knowledge graphs, NLP, ML, bioinformatics, agentic AI. Wirral, UK."
 about:
   template: trestles
   image: assets/avatar.svg
@@ -21,7 +21,7 @@ about:
       href: https://scholar.google.co.uk/citations?user=t3faIVoAAAAJ
     - icon: building
       text: KCL Pure
-      href: https://kclpure.kcl.ac.uk/portal/stephen.newhouse.html
+      href: https://kclpure.kcl.ac.uk/portal/en/persons/stephen-newhouse/
     - icon: envelope
       text: Email
       href: mailto:stephen.j.newhouse@gmail.com
@@ -31,7 +31,7 @@ about:
 
 I've spent **20+ years** in bioinformatics, genomics, and life-sciences data science. That sounds like a long time until you remember how much the field has changed in just the last five. The questions stay the same though: **how do we make sense of complex biomedical data, and how do we turn it into something that actually helps people?**
 
-For five years I led Professional Services at **Biorelate**, a UK biomedical AI company. In practice that meant making sure the science connected to what clients actually needed: accelerating a drug-discovery pipeline, untangling a messy real-world data workflow, or helping a team understand what they'd got and what they could do with it. Since June 2026 I've been working as an independent consultant and adviser.
+For five years I led Professional Services at **Biorelate**, a UK biomedical AI company. In practice that meant making sure the science connected to what clients actually needed: accelerating a drug-discovery pipeline, untangling a messy real-world data workflow, or helping a team understand what they'd got and what they could do with it. Since June 2026 I've worked as an independent consultant and adviser through my own company, **Carmen Provenance LTD**.
 
 Before this I worked across **academia, the NHS, and pharma**, building and leading teams, shipping ML models, and trying to make large-scale data projects land well in the real world.
 

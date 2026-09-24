@@ -61,17 +61,16 @@ The first push will create the `gh-pages` branch automatically.
 These are still placeholders — the build won't fail without them, but you'll want to populate:
 
 - [ ] **Avatar:** drop a square headshot at `assets/avatar.jpg` and switch `index.qmd` `image:` from `assets/favicon.svg` back to `assets/avatar.jpg`.
-- [ ] **OG image:** add `assets/og-image.png` (1200×630). Referenced by JSON-LD.
-- [ ] **CV PDF:** drop `assets/cv.pdf` to enable the download button on `cv.qmd`.
+- [ ] **OG image:** add `assets/og-image.png` (1200×630), then re-add `"image"` to the JSON-LD in `includes/head.html` (removed 2026-09-24 because it pointed at a missing file).
 - [ ] **Selected publications:** `cv.qmd` currently links out to Scholar / KCL Pure / Impactstory. Add 3–5 hand-picked highlights if you want them surfaced.
 - [x] **Google Scholar profile ID:** `t3faIVoAAAAJ`. Verified by Stephen and applied site-wide (`index.qmd`, `about.qmd`, `cv.qmd`, `includes/head.html`, `llms.txt`).
-- [ ] **Google Analytics / Plausible** *(optional)*: `_quarto.yml` `google-analytics:` is empty; add an ID if you want stats.
+- [x] **Analytics:** decided 2026-09-24: none (no tracking).
 - [ ] **Custom domain** *(optional)*: add a `CNAME` file at the repo root, then configure DNS.
 
 ### Already filled in from the LinkedIn export
 
-- ✅ Current role: independent consulting and advisory (since June 2026); Biorelate as a past role
-- ✅ Location: Manchester, UK
+- ✅ Current role: independent consulting and advisory through Carmen Provenance LTD (since June 2026); Biorelate as a past role
+- ✅ Location: Wirral, UK
 - ✅ Full work history (Biorelate → Grid Edge → Mindwave → UCL → KCL × 4 roles → 3 postdocs)
 - ✅ Education: PhD QMUL, MSc KCL, BSc Liverpool
 - ✅ Certifications + MHFA Champion

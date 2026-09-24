@@ -6,19 +6,15 @@ toc: true
 toc-depth: 2
 ---
 
-::: {.callout-note}
-**PDF version:** drop a `cv.pdf` into `assets/` and the link below will work → [Download PDF](assets/cv.pdf)
-:::
-
 ## Headline
 
 **Dr Stephen J Newhouse, PhD.** Applied AI and data science leader, bioinformatician and agentic AI engineer.
 
 20+ years across **academia, NHS, and industry**: bioinformatics, ML, target, drug, and biomarker discovery, knowledge graphs, agentic AI.
 
-📍 Manchester, England, UK. Open to hybrid / remote.
+📍 Wirral, UK. Open to hybrid / remote.
 
-[LinkedIn](https://www.linkedin.com/in/sjnewhouse/) · [GitHub](https://github.com/snewhouse) · [ORCID](https://orcid.org/0000-0002-1843-9842) · [Google Scholar](https://scholar.google.co.uk/citations?user=t3faIVoAAAAJ) · [KCL Pure](https://kclpure.kcl.ac.uk/portal/stephen.newhouse.html)
+[LinkedIn](https://www.linkedin.com/in/sjnewhouse/) · [GitHub](https://github.com/snewhouse) · [ORCID](https://orcid.org/0000-0002-1843-9842) · [Google Scholar](https://scholar.google.co.uk/citations?user=t3faIVoAAAAJ) · [KCL Pure](https://kclpure.kcl.ac.uk/portal/en/persons/stephen-newhouse/)
 
 ## Top skills
 
@@ -39,7 +35,7 @@ toc-depth: 2
 
 ## Experience
 
-### Independent consulting and advisory
+### Independent consulting and advisory · Carmen Provenance LTD
 **June 2026 – present** · United Kingdom · Remote
 
 - Applied AI, data science and bioinformatics, focused on work that has to hold up in regulated settings: governance, provenance and evidence you can defend.
@@ -47,14 +43,16 @@ toc-depth: 2
 ### Head of Professional Services & Senior Bioinformatician · Biorelate Ltd.
 **June 2021 – June 2026** · United Kingdom · Remote
 
-- Built and ran the Professional Services and Consulting function from zero: strategy, hiring, engineering standards, and client outcomes from scoping through delivery.
+- Built and ran the Professional Services and Consulting function from zero: strategy, hiring, engineering standards, and client outcomes from scoping through delivery. Led a small senior team. Engagements spanned the UK, EU, both US coasts and Japan.
 - Ran client onboarding, training, and product trials, and bespoke consultancy engagements for pharma and biotech clients.
 - Worked alongside Sales and Business Development on technical scoping, demos, and discovery, and sat between Product and clients.
 
 **Selected work**
 
-- Sole engineer on a production **agent SDK and MCP server** over a curated biomedical knowledge graph: agent orchestration, memory, evaluation, and tool-use, with full provenance and programmatic citation. Integrated by a top-10 global pharma into one of their internal agentic AI platforms.
-- Sole architect of a **multi-agent target safety assessment system**: knowledge-graph and LLM-driven evidence retrieval, programmatic citation, citation-traced reports in hours rather than weeks.
+- Sole engineer on a production **agent SDK and MCP server** over a curated biomedical knowledge graph: a type-safe async SDK, LangGraph workflows with human-in-the-loop checkpoints, memory, evaluation, and tool-use, with full provenance and programmatic citation. Over 1,000 automated tests at 91% coverage. Integrated by a top-10 global pharma into one of their internal agentic AI platforms.
+- Sole architect of a **multi-agent target safety assessment system**: knowledge-graph and LLM-driven evidence retrieval, programmatic citation, citation-traced reports in hours rather than weeks. Structured outputs end to end, no AI-assigned risk labels, and a provenance bundle of run, document and query manifests. Passed an independent security audit before it reached a client.
+- Built a **target annotation engine**: every human protein scored on graph-topology, node-similarity and evidence metrics, repointable at any disease. Validated against known disease genes, as a check that the scoring recovered what was already known rather than a discovery claim.
+- Co-ran a **head-to-head evaluation** of the company's commercial causal dataset against leading public reference resources. The weaknesses went to the client alongside the wins.
 - Designed the structured evaluation programme that converted trials into paying customers.
 
 ### Data Scientist · Grid Edge
@@ -64,12 +62,15 @@ toc-depth: 2
 - Built ML models for multivariate time-series forecasting that worked when clients only had a small amount of data to train on.
 - **Key achievement:** built an EDA and ML web application in Streamlit (pandas, NumPy, scikit-learn, PyCaret, Prophet, MLflow, Docker) so the team could explore, clean, and track time-series experiments without leaving the browser.
 
+### Career break
+**February 2020 – January 2021** · Family relocation from London to the Wirral, through the first pandemic year.
+
 ### Chief Technology Officer (interim, head-hunted) · Mindwave Ventures *(later rebranded as [Claryon Systems](https://claryonsystems.com) after my tenure)*
 **August 2019 – February 2020** · London, UK · UK & India
 
 Head-hunted by the CEO to take a CTO-level role spanning Mindwave's UK and India engineering teams. NHS-focused digital-health delivery.
 
-- Ran and mentored a development team in India. Set engineering standards, established code-review practice, and a regular working rhythm with the UK product and delivery side.
+- Ran and mentored a development team of five to nine in India. Set engineering standards, established code-review practice, and a regular working rhythm with the UK product and delivery side.
 - Worked with NHS stakeholders and the UK team to turn clinical and operational requirements into architectures, backlogs, and implementation plans the engineering team could ship against.
 - Led containerisation and Docker security for NHS-facing platforms: secure network design, container hardening, and deployment pipelines fit for UK healthcare security expectations.
 - Tightened communication between UK client-facing colleagues and the engineering team in India. Less requirements ambiguity, faster delivery on NHS and related digital-health work.
@@ -79,7 +80,7 @@ Head-hunted by the CEO to take a CTO-level role spanning Mindwave's UK and India
 #### Bioinformatics Module Lead, Genomic Medicine MSc
 **November 2015 – August 2019** · KCL & SGUL
 
-Designed and ran the bioinformatics week for the MSc in Genomic Medicine: lectures and hands-on practicals tied to the [100,000 Genomes Project](https://www.genomicsengland.co.uk/). Course material: [snewhouse/Genomic-Medicine-MSc-Bioinformatics](https://github.com/snewhouse/Genomic-Medicine-MSc-Bioinformatics/tree/master/kcl-Feb-2016).
+Designed and ran the bioinformatics week for the MSc in Genomic Medicine: lectures and hands-on practicals tied to the [100,000 Genomes Project](https://www.genomicsengland.co.uk/). Course material: [snewhouse/genmed-msc-2018](https://github.com/snewhouse/genmed-msc-2018).
 
 #### Data Science Group Lead, Department of Biostatistics & Health Informatics
 **November 2015 – August 2019** · London, UK
@@ -127,7 +128,7 @@ A compact timeline of earlier and shorter posts. Happy to talk about any of thes
 
 ## Selected publications
 
-Full list: **[Google Scholar](https://scholar.google.co.uk/citations?user=t3faIVoAAAAJ)** · **[tinyurl.com/mujf69xs](https://tinyurl.com/mujf69xs)** · **[Impactstory](https://profiles.impactstory.org/u/0000-0002-1843-9842)** · **[KCL Pure](https://kclpure.kcl.ac.uk/portal/stephen.newhouse.html)** · **[ORCID](https://orcid.org/0000-0002-1843-9842)**.
+Full list: **[Google Scholar](https://scholar.google.co.uk/citations?user=t3faIVoAAAAJ)** · **[tinyurl.com/mujf69xs](https://tinyurl.com/mujf69xs)** · **[Impactstory](https://profiles.impactstory.org/u/0000-0002-1843-9842)** · **[KCL Pure](https://kclpure.kcl.ac.uk/portal/en/persons/stephen-newhouse/)** · **[ORCID](https://orcid.org/0000-0002-1843-9842)**.
 
 Citation metrics are best read live from Scholar or Scopus. They don't belong hard-coded on a static page.
 
@@ -135,14 +136,14 @@ Citation metrics are best read live from Scholar or Scopus. They don't belong ha
 
 - **Excuse me, do you have a moment to talk about version control?** Dept talk, KCL, 2018-04-10. [Slides & paper (archived)](archive/git-intro-2018/).
 - **NGS Galaxy Workshop.** 2019. [Materials (archived)](archive/ngs-workshop-2019/files/).
-- **Bioinformatics Module, Genomic Medicine MSc.** KCL & SGUL, 2015–2019. [Course material](https://github.com/snewhouse/Genomic-Medicine-MSc-Bioinformatics).
+- **Bioinformatics Module, Genomic Medicine MSc.** KCL & SGUL, 2015–2019. [Course material](https://github.com/snewhouse/genmed-msc-2018).
 
 ## Open source
 
 - [aa-ma-forge](https://github.com/snewhouse/aa-ma-forge). Advanced Agentic Memory Architecture.
 - [awesome-genetics-software](https://github.com/snewhouse/awesome-genetics-software). Curated list of genetics tooling.
-- [Genomic-Medicine-MSc-Bioinformatics](https://github.com/snewhouse/Genomic-Medicine-MSc-Bioinformatics). KCL teaching materials.
-- 200+ public repos on [GitHub](https://github.com/snewhouse?tab=repositories).
+- [genmed-msc-2018](https://github.com/snewhouse/genmed-msc-2018). KCL teaching materials.
+- Public repos on [GitHub](https://github.com/snewhouse?tab=repositories).
 - Past contributions to [KHP-Informatics](https://github.com/KHP-Informatics) (King's Health Partners).
 
 ## References
