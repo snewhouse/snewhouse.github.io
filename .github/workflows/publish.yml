@@ -28,9 +28,9 @@ jobs:
           fail=0
           for c in $(git rev-list "$range"); do
             ae=$(git log -1 --format=%ae "$c"); ce=$(git log -1 --format=%ce "$c")
-            [ "$ae" = "$want" ] || { echo "::error::$c author $ae"; fail=1; }
+            case "$ae" in "$want"|6317143+snewhouse@users.noreply.github.com) ;; *) echo "::error::$c author $ae"; fail=1 ;; esac
             case "$ce" in "$want"|noreply@github.com) ;; *) echo "::error::$c committer $ce"; fail=1 ;; esac
-            if git log -1 --format=%B "$c" | grep -qiE 'co-authored-by[[:space:]]*:|claude-session[[:space:]]*:|noreply@anthropic\.com|generated with.*claude|^[[:space:]]*\[(aa-ma plan|ad-hoc)\]'; then
+            if grep -qiE 'co-authored-by[[:space:]]*:|claude-session[[:space:]]*:|noreply@anthropic\.com|generated with.*claude|^[[:space:]]*\[(aa-ma plan|ad-hoc)\]' <<<"$(git log -1 --format=%B "$c")"; then
               echo "::error::$c message has an attribution trailer or internal footer"; fail=1
             fi
           done
